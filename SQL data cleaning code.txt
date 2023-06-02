@@ -1,0 +1,361 @@
+-- Creating table
+CREATE table jobs
+(
+	Index				INT,
+	Job_title			VARCHAR,
+	Salary_Estimate		VARCHAR,
+	Rating				Float,
+	Company_name		VARCHAR,
+	Location			VARCHAR,
+	Headquarters		VARCHAR,
+	workforce			VARCHAR,
+	Founded				INT,
+	Type_of_ownership	VARCHAR,
+	Industry			VARCHAR,
+	Sector				VARCHAR,
+	Revenue				VARCHAR
+);
+
+-- Dropping columns not needed in analysis
+ALTER TABLE jobs
+DROP COLUMN job_description,
+DROP COLUMN job_age,
+DROP COLUMN competitors;
+
+-- Changing the name of size column to workforce
+ALTER TABLE jobs
+RENAME COLUMN size to workforce
+
+/*Workforce: Cleaning converting -1 and unknown inputs (23) to N/A. */
+SELECT DISTINCT workforce, company_name,COUNT(workforce) as count
+FROM jobs
+WHERE workforce in ('-1','Unknown')
+GROUP BY workforce, company_name
+
+UPDATE jobs
+SET workforce = RTRIM(workforce)
+
+-- updating company_name***********************************************************************************************
+UPDATE jobs
+SET company_name = 'Maxiom Technology'
+Where company_name = 'Maxiom
+5.0'
+
+UPDATE jobs
+SET company_name = 'Maxiom Technology'
+Where company_name = 'Maxiom'
+
+SELECT DISTINCT company_name, rating
+FROm jobs
+WHERE rating = 4.2
+
+-- Finally got rid of the (0.0) numbers for the company_names
+UPDATE jobs
+SET company_name =LEFT(company_name, LENGTH(company_name)-3)
+WHERE rating >0
+
+UPDATE jobs
+SET company_name = 'Chef Software, inc'
+WHERE company_name = 'Chef Software, '
+
+SELECT company_name
+FROM jobs
+WHERE company_name Like '%Software%'
+
+Select *
+FROM jobs
+ORDER BY index 
+
+-- Salary Estimate column: Cleaning the salary_estimate column to remove unnessecary characters
+UPDATE jobs
+SET salary_estimate = REPLACE(salary_estimate, '(Employer est.)','');
+
+UPDATE jobs
+SET salary_estimate = REPLACE(salary_estimate, '(Glassdoor est.)','');
+
+UPDATE jobs
+SET salary_estimate = '$80K-$132K'
+WHERE index = 483
+
+--Need to trim the empty spaces in salary_estimate
+UPDATE jobs
+SET salary_estimate = RTRIM(salary_estimate)
+
+-- Data exploration starts here. Need to manually add an avg_salary column because of how the formatting is for salary_estimate.
+Alter TABLE jobs
+ADD COLUMN avg_salary int;
+
+ALTER TABLE jobs
+ALTER COLUMN avg_salary TYPE FLOAT
+USING avg_salary::FLOAT
+
+-- creating a min and max salary column to create an integer salary column
+ALTER TABLE jobs
+ADD COLUMN Min_Salary INT,
+ADD COLUMN Max_Salary INT
+
+SELECT DISTINCT salary_estimate, Min_salary, Max_salary, avg_salary
+FROM jobs
+
+UPDATE jobs
+SET min_salary = '79',
+	max_salary = '147',
+	avg_salary = '113'
+WHERE salary_estimate = '$79K-$147K'
+
+-- creating a State column
+
+ALTER TABLE jobs
+ADD COLUMN state VARCHAR;
+
+SELECT DISTINCT location, state
+from jobs
+WHERE state = 'NJ'
+
+UPDATE jobs
+SET state = 'NJ'
+WHERE location LIKE '%NJ'
+
+UPDATE jobs
+SET state = 'N/A'
+WHERE location = 'Remote'
+
+-- Rating: cleaning the ratings to get rid of negative values and change them to 0
+SELECT distinct rating, COUNT(rating) as ratings
+FROM jobs
+GROUP BY rating;
+
+UPDATE jobs
+SET rating = 0
+WHERE rating = -1;
+
+--Revenue: Cleaning revenue just in case its needed
+SELECT distinct revenue
+FROM jobs
+
+UPDATE jobs
+SET revenue = '< $1 million (USD)'
+WHERE revenue = 'Less than $1 million (USD)'
+
+--clean location. Used update and delete to fix inputs
+UPDATE jobs
+SET location = 'South Jordan, UT'
+WHERE location = 'Utah'
+
+SELECT Distinct company_name, location, headquarters
+FROM jobs
+WHERE location = 'United States'
+ORDER BY company_name asc
+
+UPDATE jobs
+SET location = 'Livonia, MI'
+WHERE company_name = 'Blue Icy Water, LLC'
+
+Delete FROM jobs
+WHERE headquarters = 'Tel Aviv-Yafo, Israel'
+
+UPDATE jobs
+SET location = 'Scottsdale, AZ'
+WHERE company_name = 'Kollasoft Inc.
+3.2'
+
+UPDATE jobs
+SET location = 'Mc Lean, VA'
+WHERE company_name = 'Mars
+3.9'
+
+UPDATE jobs
+SET location = 'Seattle, WA'
+WHERE company_name = 'Chef Software, inc'
+
+UPDATE jobs
+SET location = 'Reston, VA'
+WHERE company_name = 'Pragmatics, Inc.
+2.9'
+
+UPDATE jobs
+SET location = 'Stamford, CT'
+WHERE company_name = 'Trexquant Investment
+4.0'
+
+
+UPDATE jobs
+SET headquarters = 'Scottsdale, AZ'
+WHERE company_name = 'Kollasoft Inc.
+3.2'
+
+-- editing -1 headquarters out
+SELECT company_name, location, headquarters
+FROM jobs
+WHERE headquarters = '-1'
+order by company_name
+
+-- updated 40+ companies that had -1 as their headquarters info
+UPDATE jobs
+SET headquarters = 'N/A'
+WHERE company_name = 'Voice
+3.4'
+
+UPDATE jobs
+SET headquarters = 'New York, NY'
+WHERE headquarters = 'New York, 061'
+
+SELECT distinct headquarters
+FROM jobs
+
+-- Couldnt find this company online
+DELETE FROM jobs
+WHERE company_name = 'HireAi'
+
+-- fraud company
+DELETE from jobs
+WHERE company_name = 'Covid-19 Search Partners'
+
+-- couldnt find info on company
+DELETE from jobs
+WHERE company_name = 'JKGT'
+
+-- looks like a fake company
+DELETE from jobs
+WHERE company_name = 'The Drive Media, Inc.
+5.0'
+
+-- inputting missing data for founded. Chaning -1 to year company was created (75) distinct company_name
+SELECT distinct company_name, founded
+FROM jobs
+where founded = '-1'
+
+Update jobs
+SET founded = '2013'
+WHERE company_name = 'TECHNOCRAFT Solutions
+3.4'
+
+-- editing type_of_ownership. Changing -1 and Unknown to correct values. Distinct companies changed (14) 
+SELECT company_name, type_of_ownership 
+FROM jobs
+WHERE type_of_ownership in ('Unknown', '-1', 'Contract')
+GROUP BY type_of_ownership, company_name
+Order by Type_of_ownership
+
+UPDATE jobs
+SET type_of_ownership = 'Company - Private'
+WHERE company_name = 'Sophinea'
+
+-- editing industry. Change -1 to correct industry 
+SELECT DISTINCT company_name, industry, headquarters
+FROM jobs
+WHERE industry = '-1'
+
+UPDATE jobs
+SET industry = 'IT Services'
+WHERE company_name = 'Solving IT International Inc
+3.4'
+
+-- SECTOR: Changing the -1 input to either the correct or N/A
+SELECT DISTINCT company_name, sector, headquarters, industry
+FROM jobs
+WHERE sector = '-1'
+
+UPDATE jobs
+SET sector = 'Technology'
+WHERE company_name = 'Radiant Digital
+4.5'
+
+
+/*
+Finding the MAX and min for average salary column using order by
+1. Max paying salary on average is 271.5
+2. Min paying salary on average is 43.5
+*/
+
+SELECT company_name, job_title, rating, sector, salary_estimate, avg_salary
+from jobs
+ORDER BY avg_salary 
+
+/*
+1. The most common rating given were 3.5(58), 0(45), 4(41), 3.3(41), 3.9(40).
+2. Least common rating 2(1), 2.2(1), 2.4(1), 2.1(1),2.3(1)
+*/
+
+SELECT rating, COUNT(rating) as rating_count
+from jobs
+GROUP BY rating
+ORDER BY rating_count desc
+
+/*
+labeling based on average rating.
+1. 0-2 Dont recommened (8)
+2. 3-3.99 Average (86)
+3. 4-5 Highly recommened (77)
+*/
+
+SELECT DISTINCT job_title, count_job, avg_rating, recommened
+FROM (SELECT job_title, count(job_title) as count_job, avg(rating) as avg_rating,
+	  CASE
+	  WHEN avg(rating) < 3 THEN 'Dont Recommened'
+	  WHEN avg(rating) < 4 THEN 'Average'
+	  ELSE 'Highly recommened'
+	  END as recommened
+	  FROM jobs
+	  GROUP BY job_title) as sub_q
+order by avg_rating desc, count_job desc
+
+
+/* What locations generally have a higher rating score?
+These labels are based on jobs that are located in specific areas. For example, Bing a data engineer in Burlingame, CA is a good place to work.
+1. 0-2 Stay_away (182)
+2. 3-3.99 Okay_location (37)
+3. 4-5 Great_location (134)
+These results arent accurate nor do they give a good indication if the job is good or bad in this location.
+Since some of these columns only have 1-5 values which doesnt give us a 95% confidence level.
+*/
+
+SELECT DISTINCT job_title, count_job, avg_rating, location, location_rating
+FROM (SELECT job_title, count(job_title) as count_job, avg(rating) as avg_rating, location,
+	  CASE
+	  WHEN avg(rating) < 3 THEN 'Stay_away'
+	  WHEN avg(rating) < 4 THEN 'Okay_location'
+	  ELSE 'Great_location'
+	  END as location_rating
+	  FROM jobs
+	  GROUP BY job_title, location) as sub_q
+order by avg_rating desc, count_job desc
+
+/* What does salary have to do with the ratings? Do higher payed jobs have a higher rating or not? 
+There is no clear conclusion that salary equates to happy workers. Need more data. */
+
+SELECT DISTINCT salary_estimate, avg_salary, avg_rating, job_count, salary_rating
+FROM (SELECT salary_estimate, avg_salary, ROUND(avg(rating),2) as avg_rating, count(job_title) as job_count,
+	  CASE
+	  WHEN ROUND(avg(rating),2) < 3 THEN 'bad'
+	  WHEN ROUND(avg(rating),2) < 4 THEN 'good'
+	  ELSE 'great'
+	  END as salary_rating
+	  FROM jobs
+	  GROUP BY salary_estimate, avg_salary) as sub_q
+ORDER BY avg_salary desc
+
+/* Which type of company has better reviews? public vs private vs other.
+Based on avg_rating, all but private sector,self-employed, and N/A are decently rated. Still not enough info on other
+types of ownership except for private and public companies. */
+
+SELECT DISTINCT type_of_ownership, ROUND(avg(rating),2) as avg_rating, count(type_of_ownership) as count_ownership
+FROM jobs
+GROUP BY 1
+ORDER BY avg_rating desc
+
+/*Does the sector ur working in have anything to do with rating scores?
+Information technology is by far the best rated company based on sample size given */
+
+SELECT DISTINCT sector, ROUND(avg(rating),2) as avg_rating, COUNT(sector) as sector_count
+FROM jobs
+GROUP BY 1
+ORDER BY 2 desc
+
+SELECT *
+FROM jobs
+ORDER BY index
+
+
+
+
