@@ -1,0 +1,1284 @@
+"index","job_title","salary_estimate","rating","company_name","location","headquarters","workforce","founded","type_of_ownership","industry","sector","revenue","state"
+0,"Sr Data Scientist","$137K-$171K ","3.1","Healthfirst
+","New York, NY","New York, NY","1001 to 5000 ",1993,"Nonprofit Organization","Insurance Carriers","Insurance","Unknown / Non-Applicable","NY"
+1,"Data Scientist","$137K-$171K ","4.2","ManTech
+","Chantilly, VA","Herndon, VA","5001 to 10000 ",1968,"Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","VA"
+2,"Data Scientist","$137K-$171K ","3.8","Analysis Group
+","Boston, MA","Boston, MA","1001 to 5000 ",1981,"Private Practice / Firm","Consulting","Business Services","$100 to $500 million (USD)","MA"
+3,"Data Scientist","$137K-$171K ","3.5","INFICON
+","Newton, MA","Bad Ragaz, Switzerland","501 to 1000 ",2000,"Company - Public","Electrical & Electronic Manufacturing","Manufacturing","$100 to $500 million (USD)","MA"
+4,"Data Scientist","$137K-$171K ","2.9","Affinity Solutions
+","New York, NY","New York, NY","51 to 200 ",1998,"Company - Private","Advertising & Marketing","Business Services","Unknown / Non-Applicable","NY"
+5,"Data Scientist","$137K-$171K ","4.2","HG Insights
+","Santa Barbara, CA","Santa Barbara, CA","51 to 200 ",2010,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+6,"Data Scientist / Machine Learning Expert","$137K-$171K ","3.9","Novartis
+","Cambridge, MA","Basel, Switzerland","10000+ ",1996,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+7,"Data Scientist","$137K-$171K ","3.5","iRobot
+","Bedford, MA","Bedford, MA","1001 to 5000 ",1990,"Company - Public","Consumer Electronics & Appliances Stores","Retail","$1 to $2 billion (USD)","MA"
+8,"Staff Data Scientist - Analytics","$137K-$171K ","4.4","Intuit - Data
+","San Diego, CA","Mountain View, CA","5001 to 10000 ",1983,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+9,"Data Scientist","$137K-$171K ","3.6","XSELL Technologies
+","Chicago, IL","Chicago, IL","51 to 200 ",2014,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","IL"
+10,"Data Scientist","$137K-$171K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+11,"Data Scientist","$137K-$171K ","4.7","1904labs
+","Saint Louis, MO","Saint Louis, MO","51 to 200 ",2016,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","MO"
+12,"Data Scientist - Statistics, Early Career","$137K-$171K ","3.7","PNNL
+","Richland, WA","Richland, WA","1001 to 5000 ",1965,"Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","WA"
+13,"Data Modeler","$137K-$171K ","3.1","Old World Industries
+","Northbrook, IL","Northbrook, IL","201 to 500 ",1973,"Company - Private","Chemical Manufacturing","Manufacturing","$1 to $2 billion (USD)","IL"
+14,"Data Scientist","$137K-$171K ","3.4","Mathematica Policy Research
+","Washington, DC","Princeton, NJ","1001 to 5000 ",1986,"Company - Private","Consulting","Business Services","$100 to $500 million (USD)","DC"
+15,"Experienced Data Scientist","$137K-$171K ","4.4","Guzman & Griffin Technologies (GGTI)
+","Washington, DC","Mays Landing, NJ","1 to 50 ",1997,"Company - Private","Federal Agencies","Government","Unknown / Non-Applicable","DC"
+16,"Data Scientist - Contract","$137K-$171K ","4.1","Upside Business Travel
+","Remote","Washington, DC","51 to 200 ",2015,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","Remote"
+17,"Data Scientist","$137K-$171K ","3.5","Buckman
+","Memphis, TN","Memphis, TN","1001 to 5000 ",1945,"Company - Private","Chemical Manufacturing","Manufacturing","$500 million to $1 billion (USD)","TN"
+18,"Data Analyst II","$137K-$171K ","4.2","Insight Enterprises, Inc.
+","Plano, TX","Tempe, AZ","5001 to 10000 ",1988,"Company - Public","Enterprise Software & Network Solutions","Information Technology","$5 to $10 billion (USD)","TX"
+19,"Medical Lab Scientist","$137K-$171K ","3.5","Tower Health
+","West Grove, PA","Reading, PA","5001 to 10000 ",2017,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","PA"
+20,"Data Scientist","$137K-$171K ","3.2","Triplebyte
+","New York, NY","San Francisco, CA","51 to 200 ",2015,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","NY"
+21,"Data Scientist/Machine Learning","$137K-$171K ","4.3","PulsePoint
+","New York, NY","New York, NY","51 to 200 ",2011,"Company - Private","Internet","Information Technology","$100 to $500 million (USD)","NY"
+22,"Human Factors Scientist","$137K-$171K ","3.5","Exponent
+","Phoenix, AZ","Menlo Park, CA","1001 to 5000 ",1967,"Company - Public","Consulting","Business Services","$100 to $500 million (USD)","AZ"
+23,"Business Intelligence Analyst I- Data Insights","$137K-$171K ","3.5","Guardian Life
+","Appleton, WI","New York, NY","5001 to 10000 ",1860,"Company - Private","Insurance Carriers","Insurance","$5 to $10 billion (USD)","WI"
+24,"Data Scientist","$137K-$171K ","3.4","Spectrum Communications and Consulting
+","Chicago, IL","Chicago, IL","51 to 200 ",1992,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","IL"
+25,"Data Scientist","$137K-$171K ","4.7","Oversight Systems
+","Atlanta, GA","Atlanta, GA","51 to 200 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","GA"
+26,"Data Scientist - Risk","$137K-$171K ","4.2","LSQ
+","Orlando, FL","Orlando, FL","51 to 200 ",1996,"Company - Private","Investment Banking & Asset Management","Finance","$100 to $500 million (USD)","FL"
+27,"Data Scientist-Human Resources","$137K-$171K ","3.8","MIT Lincoln Laboratory
+","Lexington, MA","Lexington, MA","1001 to 5000 ",1951,"Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MA"
+28,"Data Scientist","$137K-$171K ","4.5","Kingfisher Systems
+","McLean, VA","Falls Church, VA","51 to 200 ",2005,"Company - Private","Federal Agencies","Government","$25 to $50 million (USD)","VA"
+29,"Data Scientist","$137K-$171K ","2.8","Formation
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2015,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","CA"
+30,"Data Scientist","$75K-$131K ","3.8","Analysis Group
+","Boston, MA","Boston, MA","1001 to 5000 ",1981,"Private Practice / Firm","Consulting","Business Services","$100 to $500 million (USD)","MA"
+31,"Data Scientist / Machine Learning Expert","$75K-$131K ","3.9","Novartis
+","Cambridge, MA","Basel, Switzerland","10000+ ",1996,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+32,"Data Scientist","$75K-$131K ","5","Cohere Health
+","Boston, MA","Boston, MA","1 to 50 ",2019,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","MA"
+33,"Senior Research Statistician- Data Scientist","$75K-$131K ","4.8","Acuity Insurance
+","Sheboygan, WI","Sheboygan, WI","1001 to 5000 ",1925,"Company - Private","Insurance Carriers","Insurance","$1 to $2 billion (USD)","WI"
+34,"Data Engineer","$75K-$131K ","3.6","Chef Software, inc","Seattle, WA","Seattle, WA","201 to 500 ",2008,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$50 to $100 million (USD)","WA"
+35,"Associate Data Scientist","$75K-$131K ","3.3","Puget Sound Energy
+","Bothell, WA","Bellevue, WA","1001 to 5000 ",1999,"Company - Private","Utilities","Oil, Gas, Energy & Utilities","$2 to $5 billion (USD)","WA"
+36,"Business Intelligence Analyst","$75K-$131K ","2.7","Sandhills Global
+","Lincoln, NE","Lincoln, NE","1001 to 5000 ",1978,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$50 to $100 million (USD)","NE"
+37,"Data Scientist","$75K-$131K ","2.7","A Place for Mom
+","Overland Park, KS","New York, NY","501 to 1000 ",2000,"Company - Private","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","KS"
+38,"Data Scientist","$75K-$131K ","2.2","Great-Circle Technologies
+","Chantilly, VA","Chantilly, VA","1 to 50 ",2000,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$1 to $5 million (USD)","VA"
+39,"Senior Analyst/Data Scientist","$75K-$131K ","3.4","Edmunds.com
+","Santa Monica, CA","Santa Monica, CA","501 to 1000 ",1966,"Company - Private","Internet","Information Technology","$100 to $500 million (USD)","CA"
+40,"Data Analyst","$75K-$131K ","3.1","Cambridge Associates, LLC
+","Boston, MA","Boston, MA","501 to 1000 ",1973,"Company - Private","Investment Banking & Asset Management","Finance","$100 to $500 million (USD)","MA"
+41,"Machine Learning Engineer","$75K-$131K ","3.4","Liberty Mutual Insurance
+","Portsmouth, NH","Boston, MA","10000+ ",1912,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","NH"
+42,"Data Analyst I","$75K-$131K ","2.6","Cenlar
+","Ewing, NJ","Ewing, NJ","1001 to 5000 ",1958,"Company - Private","Financial Services","Finance","$100 to $500 million (USD)","NJ"
+43,"Scientist - Molecular Biology","$75K-$131K ","5","Arsenal Biosciences
+","South San Francisco, CA","South San Francisco, CA","51 to 200 ",2019,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+44,"Data Scientist","$75K-$131K ","4.2","Eversight
+","Palo Alto, CA","Palo Alto, CA","51 to 200 ",2013,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","CA"
+45,"Computational Scientist, Machine Learning","$75K-$131K ","4.1","Pfizer
+","Cambridge, MA","New York, NY","10000+ ",1849,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+46,"Senior Data Scientist","$75K-$131K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+47,"Data Scientist","$75K-$131K ","3.3","Intellectual Ventures
+","Bellevue, WA","Bellevue, WA","501 to 1000 ",2000,"Company - Private","Investment Banking & Asset Management","Finance","Unknown / Non-Applicable","WA"
+48,"Data Scientist","$75K-$131K ","3.7","GovTech
+","San Francisco, CA","Singapore, Singapore","1001 to 5000 ",2016,"Government","Federal Agencies","Government","Unknown / Non-Applicable","CA"
+49,"Data Scientist","$75K-$131K ","4.3","Quick Base
+","Cambridge, MA","Cambridge, MA","201 to 500 ",1999,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","MA"
+50,"Data Analyst","$75K-$131K ","4.8","Giving Assistant
+","San Francisco, CA","San Francisco, CA","1 to 50 ",2014,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","CA"
+51,"Data Scientist","$75K-$131K ","3.7","Takeda
+","Cambridge, MA","OSAKA, Japan","10000+ ",1781,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+52,"Data Scientist","$75K-$131K ","4","Netskope
+","San Francisco, CA","Santa Clara, CA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","CA"
+53,"Jr. Data Engineer","$75K-$131K ","4.8","IT Concepts
+","Remote","Vienna, VA","51 to 200 ",2003,"Company - Private","IT Services","Information Technology","$10 to $25 million (USD)","Remote"
+54,"E-Commerce Data Analyst","$75K-$131K ","3.5","iSeatz
+","New Orleans, LA","New Orleans, LA","51 to 200 ",1999,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","LA"
+55,"Data Analytics Engineer","$75K-$131K ","3.7","Summa Health System
+","Akron, OH","Akron, OH","5001 to 10000 ",1926,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$100 to $500 million (USD)","OH"
+56,"Senior Data Scientist","$75K-$131K ","3.5","Benson Hill
+","Saint Louis, MO","Saint Louis, MO","201 to 500 ",2012,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","MO"
+57,"Product Data Scientist - Ads Data Science","$75K-$131K ","4.1","Twitter
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2006,"Company - Public","Internet","Information Technology","$2 to $5 billion (USD)","CA"
+58,"Data Scientist","$75K-$131K ","3.2","Postmates - Corporate HQ
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2011,"Company - Private","Express Delivery Services","Transportation & Logistics","Unknown / Non-Applicable","CA"
+59,"Data Scientist - Intermediate","$75K-$131K ","4.5","Envision LLC
+","Saint Louis, MO","Saint Louis, MO","201 to 500 ",1994,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","MO"
+60,"Data Analyst","$75K-$131K ","3.8","Swiss Re
+","Fort Wayne, IN","Zurich, Switzerland","10000+ ",1863,"Company - Public","Insurance Agencies & Brokerages","Insurance","$10+ billion (USD)","IN"
+61,"Machine Learning Engineer","$75K-$131K ","4.5","Systems & Technology Research
+","Woburn, MA","Woburn, MA","201 to 500 ",2010,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","MA"
+62,"Data Scientist","$79K-$131K ","3.5","iRobot
+","Bedford, MA","Bedford, MA","1001 to 5000 ",1990,"Company - Public","Consumer Electronics & Appliances Stores","Retail","$1 to $2 billion (USD)","MA"
+63,"Data Scientist","$79K-$131K ","4.2","HG Insights
+","Santa Barbara, CA","Santa Barbara, CA","51 to 200 ",2010,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+64,"Global Data Analyst","$79K-$131K ","3.8","Dermalogica
+","Carson, CA","Carson, CA","201 to 500 ",1986,"Subsidiary or Business Segment","Consumer Products Manufacturing","Manufacturing","$100 to $500 million (USD)","CA"
+65,"Data Engineer","$79K-$131K ","3.7","Bayview Asset Management
+","Coral Gables, FL","Coral Gables, FL","1001 to 5000 ",1995,"Company - Private","Investment Banking & Asset Management","Finance","$100 to $500 million (USD)","FL"
+66,"Data Scientist","$79K-$131K ","3.7","Via Transportation
+","New York, NY","New York, NY","501 to 1000 ",2012,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","NY"
+67,"Data Scientist","$79K-$131K ","4","Grid Dynamics
+","Santa Clara, CA","San Ramon, CA","1001 to 5000 ",2006,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$50 to $100 million (USD)","CA"
+68,"Data & Machine Learning Scientist","$79K-$131K ","3.3","Tempus Labs
+","Chicago, IL","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","IL"
+69,"Data Scientist - Machine Learning","$79K-$131K ","2.5","CareDx
+","Brisbane, CA","Brisbane, CA","1 to 50 ",1998,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+70,"Data Engineer (Remote)","$79K-$131K ","4.2","IZEA
+","Winter Park, FL","Winter Park, FL","51 to 200 ",2006,"Company - Public","Advertising & Marketing","Business Services","$25 to $50 million (USD)","FL"
+71,"Data Scientist, Applied Machine Learning - Bay Area","$79K-$131K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+72,"Principal Data Scientist","$79K-$131K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+73,"Business Data Analyst","$79K-$131K ","3.7","Caterpillar
+","Peoria, IL","Deerfield, IL","10000+ ",1925,"Company - Public","Industrial Manufacturing","Manufacturing","$10+ billion (USD)","IL"
+74,"Purification Scientist","$79K-$131K ","4.9","New England Biolabs
+","Ipswich, MA","Ipswich, MA","201 to 500 ",1974,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","MA"
+75,"Data Analyst","$79K-$131K ","3.4","Allied Solutions
+","Carmel, IN","Carmel, IN","1001 to 5000 ",2001,"Subsidiary or Business Segment","Insurance Agencies & Brokerages","Insurance","$100 to $500 million (USD)","IN"
+76,"Data Engineer, Enterprise Analytics","$79K-$131K ","3.1","Healthfirst
+","New York, NY","New York, NY","1001 to 5000 ",1993,"Nonprofit Organization","Insurance Carriers","Insurance","Unknown / Non-Applicable","NY"
+77,"Data Scientist","$79K-$131K ","3.5","The Knot Worldwide
+","Washington, DC","Chevy Chase, MD","1001 to 5000 ",2019,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","DC"
+78,"Data Scientist","$79K-$131K ","2.9","IFG Companies
+","New York, NY","Hartford, CT","201 to 500 ",1985,"Company - Private","Insurance Carriers","Insurance","Unknown / Non-Applicable","NY"
+79,"Data Scientist 3 (718)","$79K-$131K ","3.3","Amyris
+","Emeryville, CA","Emeryville, CA","201 to 500 ",2003,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","CA"
+80,"Real World Science, Data Scientist","$79K-$131K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+81,"Data Scientist","$79K-$131K ","3.6","Powertek
+","Washington, DC","Rockville, MD","51 to 200 ",2001,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","DC"
+82,"Data Engineer","$79K-$131K ","4.7","Object Partners
+","Saint Louis, MO","Minneapolis, MN","51 to 200 ",1996,"Company - Private","Consulting","Business Services","$25 to $50 million (USD)","MO"
+83,"Data Scientist - Image and Video Analytics","$79K-$131K ","4.9","The Mom Project
+","Longmont, CO","Chicago, IL","1 to 50 ",2016,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CO"
+84,"Data Scientist","$79K-$131K ","4.3","Lightspeed Systems
+","Austin, TX","Austin, TX","51 to 200 ",1999,"Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","TX"
+85,"Data Science Manager, Payment Acceptance - USA","$79K-$131K ","4","Stripe
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2010,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","CA"
+86,"Data Analyst","$79K-$131K ","2.6","Comprehensive Healthcare
+","Yakima, WA","Yakima, WA","501 to 1000 ",1971,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","WA"
+87,"Data Scientist / Applied Mathematician","$79K-$131K ","4.5","Fullpower Technologies, Inc.
+","Santa Cruz, CA","Santa Cruz, CA","51 to 200 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","CA"
+88,"Machine Learning Engineer","$79K-$131K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+89,"Data Scientist","$79K-$131K ","3.9","Mars
+","Mc Lean, VA","Mc Lean, VA","10000+ ",1911,"Company - Private","Food & Beverage Manufacturing","Manufacturing","$10+ billion (USD)","VA"
+90,"Patient Safety- Associate Data Scientist","$79K-$131K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+91,"Machine Learning Engineer","$79K-$131K ","4.4","NuWave Solutions
+","Springfield, VA","Mc Lean, VA","51 to 200 ",1999,"Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","VA"
+92,"Senior Data Scientist","$79K-$131K ","4.2","ManTech
+","Alexandria, VA","Herndon, VA","5001 to 10000 ",1968,"Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","VA"
+93,"(Sr.) Data Scientist -","$79K-$131K ","3.6","Merrick Bank
+","South Jordan, UT","South Jordan, UT","201 to 500 ",1997,"Company - Private","Banks & Credit Unions","Finance","Unknown / Non-Applicable","UT"
+94,"Data Scientist","$99K-$132K ","3.4","Mathematica Policy Research
+","Washington, DC","Princeton, NJ","1001 to 5000 ",1986,"Company - Private","Consulting","Business Services","$100 to $500 million (USD)","DC"
+95,"Staff Data Scientist - Analytics","$99K-$132K ","4.4","Intuit - Data
+","San Diego, CA","Mountain View, CA","5001 to 10000 ",1983,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+96,"Data Analytics Engineer","$99K-$132K ","3.5","QOMPLX
+","Reston, VA","Reston, VA","51 to 200 ",2015,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","VA"
+97,"Data Scientist, Kinship - NYC/Portland","$99K-$132K ","3.9","Mars
+","Mc Lean, VA","Mc Lean, VA","10000+ ",1911,"Company - Private","Food & Beverage Manufacturing","Manufacturing","$10+ billion (USD)","VA"
+98,"Senior Data Scientist","$99K-$132K ","3.8","GutCheck
+","Denver, CO","Denver, CO","51 to 200 ",2009,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","CO"
+99,"Applied Technology Researcher / Data Scientist","$99K-$132K ","3.5","Inter-American Development Bank
+","Washington, DC","Washington, DC","1001 to 5000 ",1959,"Other Organization","Banks & Credit Unions","Finance","$10+ billion (USD)","DC"
+100,"Data Scientist","$99K-$132K ","4.9","Avlino
+","New Jersey","Holmdel, NJ","1 to 50 ",2013,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Less than $1 million (USD)","NJ"
+101,"Machine Learning Engineer","$99K-$132K ","4.4","Stratagem Group
+","Aurora, CO","Aurora, CO","1 to 50 ",2007,"Company - Private","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","CO"
+102,"Health Data Scientist - Biomedical/Biostats","$99K-$132K ","4.1","Evidation
+","Santa Barbara, CA","San Mateo, CA","51 to 200 ",2012,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","CA"
+103,"Senior Data Scientist","$99K-$132K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+104,"Staff Data Scientist","$99K-$132K ","4.4","Intuit - Data
+","San Diego, CA","Mountain View, CA","5001 to 10000 ",1983,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+105,"Data Scientist","$99K-$132K ","3.8","Tecolote Research
+","Hill AFB, UT","Goleta, CA","501 to 1000 ",1973,"Company - Private","Aerospace & Defense","Aerospace & Defense","$50 to $100 million (USD)","UT"
+106,"Sr Data Engineer (Sr BI Developer)","$99K-$132K ","3.2","Tivity Health
+","Chandler, AZ","Franklin, TN","501 to 1000 ",1981,"Company - Public","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","AZ"
+107,"Data Engineer","$99K-$132K ","2.9","hc1
+","Indianapolis, IN","Indianapolis, IN","51 to 200 ",2011,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10 to $25 million (USD)","IN"
+108,"Lead Data Scientist","$99K-$132K ","4.1","HP Inc.
+","San Diego, CA","Palo Alto, CA","10000+ ",1939,"Company - Public","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+109,"Data Scientist","$99K-$132K ","3.7","SAIC
+","Chantilly, VA","Reston, VA","10000+ ",2013,"Company - Public","Enterprise Software & Network Solutions","Information Technology","$5 to $10 million (USD)","VA"
+110,"RFP Data Analyst","$99K-$132K ","3.2","AllianceBernstein
+","Nashville, TN","New York, NY","1001 to 5000 ",1967,"Company - Public","Investment Banking & Asset Management","Finance","$2 to $5 billion (USD)","TN"
+111,"Data Analyst","$99K-$132K ","4.9","Big Huge Games
+","Timonium, MD","Lutherville Timonium, MD","51 to 200 ",2013,"Subsidiary or Business Segment","Video Games","Media","Unknown / Non-Applicable","MD"
+112,"Data Scientist (TS/SCI)","$99K-$132K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+113,"Data Engineer","$99K-$132K ","5","Phantom AI
+","Burlingame, CA","Burlingame, CA","1 to 50 ",2016,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+114,"Data Scientist","$99K-$132K ","4","Noblis
+","Reston, VA","Reston, VA","1001 to 5000 ",1996,"Nonprofit Organization","Consulting","Business Services","$100 to $500 million (USD)","VA"
+115,"Data Scientist","$99K-$132K ","3.6","Spring Health
+","New York, NY","New York, NY","1 to 50 ",2016,"Company - Private","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","NY"
+116,"Software Engineer - Data Science","$99K-$132K ","4","ClearEdge
+","Annapolis Junction, MD","Annapolis Junction, MD","51 to 200 ",2002,"Company - Private","Computer Hardware & Software","Information Technology","$5 to $10 million (USD)","MD"
+117,"Data Analyst/Engineer","$99K-$132K ","3.2","AllianceBernstein
+","Nashville, TN","New York, NY","1001 to 5000 ",1967,"Company - Public","Investment Banking & Asset Management","Finance","$2 to $5 billion (USD)","TN"
+118,"NGS Scientist","$99K-$132K ","5","Arsenal Biosciences
+","South San Francisco, CA","South San Francisco, CA","51 to 200 ",2019,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+119,"Data Engineer","$99K-$132K ","4.8","GetWellNetwork
+","Bethesda, MD","Bethesda, MD","201 to 500 ",2000,"Company - Private","Health Care Services & Hospitals","Health Care","$50 to $100 million (USD)","MD"
+120,"Data Scientist","$99K-$132K ","4.5","TACG Solutions
+","Dayton, OH","Beavercreek, OH","51 to 200 ",2006,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","OH"
+121,"Senior Data Engineer","$99K-$132K ","4.7","Scoop
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2015,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","CA"
+122,"Senior Data Scientist","$99K-$132K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+123,"Data Engineer","$99K-$132K ","4.2","IZEA
+","Winter Park, FL","Winter Park, FL","51 to 200 ",2006,"Company - Public","Advertising & Marketing","Business Services","$25 to $50 million (USD)","FL"
+124,"Business Intelligence Analyst","$99K-$132K ","3.4","Montway Inc
+","Schaumburg, IL","Schaumburg, IL","51 to 200 ",2006,"Company - Private","Shipping","Transportation & Logistics","Unknown / Non-Applicable","IL"
+125,"Sr. ML/Data Scientist - AI/NLP/Chatbot","$99K-$132K ","3.8","Juniper Networks
+","Cupertino, CA","Sunnyvale, CA","5001 to 10000 ",1996,"Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","CA"
+126,"Data Scientist","$90K-$109K ","4.7","1904labs
+","Saint Louis, MO","Saint Louis, MO","51 to 200 ",2016,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","MO"
+127,"Data Scientist","$90K-$109K ","3.6","XSELL Technologies
+","Chicago, IL","Chicago, IL","51 to 200 ",2014,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","IL"
+128,"Data Engineer","$90K-$109K ","4.2","IZEA
+","Winter Park, FL","Winter Park, FL","51 to 200 ",2006,"Company - Public","Advertising & Marketing","Business Services","$25 to $50 million (USD)","FL"
+129,"Sr. ML/Data Scientist - AI/NLP/Chatbot","$90K-$109K ","3.8","Juniper Networks
+","Cupertino, CA","Sunnyvale, CA","5001 to 10000 ",1996,"Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","CA"
+130,"Data Scientist","$90K-$109K ","5","Notion Labs
+","San Francisco, CA","San Francisco, CA","1 to 50 ",2016,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","CA"
+131,"Senior Data Engineer","$90K-$109K ","4.9","Lendio
+","Lehi, UT","Lehi, UT","201 to 500 ",2011,"Company - Private","Lending","Finance","$50 to $100 million (USD)","UT"
+132,"Data Engineer","$90K-$109K ","4.4","Direct Agents
+","Culver City, CA","New York, NY","51 to 200 ",2003,"Company - Private","Advertising & Marketing","Business Services","$25 to $50 million (USD)","CA"
+133,"Data Scientist","$90K-$109K ","3.3","NAVEX Global
+","Lake Oswego, OR","Lake Oswego, OR","1001 to 5000 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","OR"
+134,"Machine Learning Engineer","$90K-$109K ","3.2","Triplebyte
+","Remote","San Francisco, CA","51 to 200 ",2015,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","Remote"
+135,"Machine Learning Engineer","$90K-$109K ","3.2","Triplebyte
+","Remote","San Francisco, CA","51 to 200 ",2015,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","Remote"
+136,"Senior Data Engineer","$90K-$109K ","4.9","Lendio
+","Lehi, UT","Lehi, UT","201 to 500 ",2011,"Company - Private","Lending","Finance","$50 to $100 million (USD)","UT"
+137,"Data Scientist","$90K-$109K ","4.2","Upstart
+","San Mateo, CA","San Mateo, CA","201 to 500 ",2012,"Company - Private","Lending","Finance","Unknown / Non-Applicable","CA"
+138,"Data Analyst","$90K-$109K ","4.5","Envision LLC
+","San Francisco, CA","Saint Louis, MO","201 to 500 ",1994,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","CA"
+139,"Data Engineer","$90K-$109K ","4.8","AppLovin
+","Palo Alto, CA","Palo Alto, CA","201 to 500 ",2012,"Company - Private","Video Games","Media","Unknown / Non-Applicable","CA"
+140,"Data Integration and Modeling Engineer","$90K-$109K ","3.8","ISO New England
+","Holyoke, MA","Holyoke, MA","501 to 1000 ",1997,"Nonprofit Organization","Utilities","Oil, Gas, Energy & Utilities","Unknown / Non-Applicable","MA"
+141,"Tableau Data Engineer 20-0117","$90K-$109K ","3.7","Relativity
+","Chicago, IL","Chicago, IL","1001 to 5000 ",2001,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","IL"
+142,"Senior Data Scientist","$90K-$109K ","3.3","Tempo Automation
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2013,"Company - Private","Electrical & Electronic Manufacturing","Manufacturing","$5 to $10 million (USD)","CA"
+143,"AI Data Scientist","$90K-$109K ","3.3","MITRE
+","McLean, VA","Bedford, MA","5001 to 10000 ",1958,"Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","VA"
+144,"Machine Learning Engineer","$90K-$109K ","5","Expedition Technology, Inc.
+","Herndon, VA","Dulles, VA","1 to 50 ",2013,"Company - Private","Aerospace & Defense","Aerospace & Defense","$10 to $25 million (USD)","VA"
+145,"Research Scientist Patient Preferences (Remote)","$90K-$109K ","3.8","Evidera
+","Bethesda, MD","Bethesda, MD","501 to 1000 ",2013,"Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MD"
+146,"Data Scientist","$90K-$109K ","3.4","Plymouth Rock Assurance
+","Woodbridge, NJ","Boston, MA","1001 to 5000 ",1982,"Company - Private","Insurance Carriers","Insurance","$10 to $25 million (USD)","NJ"
+147,"Scientist - Biomarker and Flow Cytometry","$90K-$109K ","2.4","Crown Bioscience
+","San Diego, CA","San Diego, CA","501 to 1000 ",2006,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","CA"
+148,"Data Scientist","$90K-$109K ","2.9","GNS Healthcare
+","Cambridge, MA","Cambridge, MA","51 to 200 ",2000,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10 to $25 million (USD)","MA"
+149,"Analytics Manager","$90K-$109K ","4.4","OneMagnify
+","Dearborn, MI","Detroit, MI","201 to 500 ",1967,"Company - Private","Advertising & Marketing","Business Services","Unknown / Non-Applicable","MI"
+150,"Data Scientist","$90K-$109K ","2.9","SPECTRUM
+","Maryland Heights, MO","Stamford, CT","10000+ ",2016,"Subsidiary or Business Segment","Cable, Internet & Telephone Providers","Telecommunications","$10+ billion (USD)","MO"
+151,"Staff Scientist- Upstream PD","$90K-$109K ","2.7","Advanced BioScience Laboratories
+","Rockville, MD","Rockville, MD","201 to 500 ",1961,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","MD"
+152,"Data Engineer","$90K-$109K ","4.2","Procore Technologies
+","Carpinteria, CA","Carpinteria, CA","1001 to 5000 ",2002,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+153,"Sr Scientist - Extractables & Leachables","$90K-$109K ","3.5","Ritedose
+","Columbia, SC","Columbia, SC","201 to 500 ",1995,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","SC"
+155,"Sr Data Scientist","$90K-$109K ","4.2","bioMérieux
+","Saint Louis, MO","Marcy-l'Etoile, France","10000+ ",1963,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$2 to $5 billion (USD)","MO"
+156,"Data Scientist","$101K-$165K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+157,"Experienced Data Scientist","$101K-$165K ","4.4","Guzman & Griffin Technologies (GGTI)
+","Washington, DC","Mays Landing, NJ","1 to 50 ",1997,"Company - Private","Federal Agencies","Government","Unknown / Non-Applicable","DC"
+158,"Machine Learning Engineer","$101K-$165K ","0","Radical Convergence","Reston, VA","Reston, VA","N/A",2017,"Company - Private","IT Services","Technology","-1","VA"
+159,"Data Scientist","$101K-$165K ","3.5","Leidos
+","Fort Meade, MD","Reston, VA","10000+ ",1969,"Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","MD"
+160,"Data Scientist","$101K-$165K ","4.5","Demandbase
+","San Francisco, CA","San Francisco, CA","201 to 500 ",2006,"Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","CA"
+161,"Say Business Data Analyst","$101K-$165K ","4.1","Shelter Insurance
+","Columbia, MO","Columbia, MO","1001 to 5000 ",1946,"Company - Private","Insurance Carriers","Insurance","$1 to $2 billion (USD)","MO"
+162,"Geospatial Data Scientist","$101K-$165K ","3.5","Maxar Technologies
+","Chantilly, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+163,"Data Analyst","$101K-$165K ","2.7","USAC
+","Washington, DC","Washington, DC","501 to 1000 ",1997,"Nonprofit Organization","Telecommunications Services","Telecommunications","$25 to $50 million (USD)","DC"
+164,"Computational Scientist","$101K-$165K ","3.4","General Dynamics Information Technology
+","Vicksburg, MS","Fairfax, VA","10000+ ",1996,"Subsidiary or Business Segment","IT Services","Information Technology","$10+ billion (USD)","MS"
+165,"Data Scientist","$101K-$165K ","4.4","Offerpad
+","Chandler, AZ","Chandler, AZ","201 to 500 ",2015,"Company - Private","Real Estate","Real Estate","Unknown / Non-Applicable","AZ"
+166,"Senior Data Analyst","$101K-$165K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+167,"Senior Data Analyst","$101K-$165K ","4.2","Autodesk
+","San Francisco, CA","Herndon, VA","5001 to 10000 ",1968,"Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","CA"
+168,"Data Engineer","$101K-$165K ","3.5","Magna International Inc.
+","Birmingham, AL","Aurora, Canada","10000+ ",1957,"Company - Public","Motor Vehicle Manufacturing","Transportation","$10+ billion (USD)","AL"
+169,"Sr Data Analyst","$101K-$165K ","2.3","United BioSource
+","Blue Bell, PA","Blue Bell, PA","1001 to 5000 ",2003,"Other Organization","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","PA"
+170,"Data Scientist","$101K-$165K ","3.4","Kelly
+","Chicago, IL","Troy, MI","5001 to 10000 ",1946,"Company - Public","Staffing & Outsourcing","Business Services","$5 to $10 billion (USD)","IL"
+171,"Machine Learning Scientist - Bay Area, CA","$101K-$165K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+172,"Data Scientist","$101K-$165K ","4.7","C3.ai
+","Redwood City, CA","Redwood City, CA","201 to 500 ",2009,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","CA"
+173,"Senior Data Scientist - Algorithms","$101K-$165K ","3.9","Quartet Health
+","New York, NY","New York, NY","201 to 500 ",2014,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","NY"
+174,"Data Analyst","$101K-$165K ","3.3","Midland Credit Management
+","San Diego, CA","San Diego, CA","1001 to 5000 ",1953,"Subsidiary or Business Segment","Banks & Credit Unions","Finance","$1 to $2 billion (USD)","CA"
+175,"Senior Data & Machine Learning Scientist","$101K-$165K ","3.3","Tempus Labs
+","Chicago, IL","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","IL"
+176,"Data Engineer","$101K-$165K ","4.4","Resurgent Capital Services
+","Cincinnati, OH","Greenville, SC","201 to 500 ",1998,"Company - Private","Venture Capital & Private Equity","Finance","$50 to $100 million (USD)","OH"
+177,"Data Scientist - Statistics, Early Career","$56K-$97K ","3.7","PNNL
+","Richland, WA","Richland, WA","1001 to 5000 ",1965,"Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","WA"
+178,"Data Scientist","$56K-$97K ","3.5","Buckman
+","Memphis, TN","Memphis, TN","1001 to 5000 ",1945,"Company - Private","Chemical Manufacturing","Manufacturing","$500 million to $1 billion (USD)","TN"
+179,"Machine Learning Engineer","$56K-$97K ","3.6","Buckman
+","Memphis, TN","Arlington, VA","501 to 1000 ",1967,"Nonprofit Organization","Federal Agencies","Government","$50 to $100 million (USD)","TN"
+180,"Research Scientist - Patient-Centered Research (Remote)","$56K-$97K ","3.8","Evidera
+","Bethesda, MD","Bethesda, MD","501 to 1000 ",2013,"Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MD"
+181,"Jr. Business Data Analyst (position added 6/12/2020)","$56K-$97K ","4.7","webfx.com
+","Harrisburg, PA","Harrisburg, PA","201 to 500 ",1997,"Company - Private","Advertising & Marketing","Business Services","$25 to $50 million (USD)","PA"
+182,"Sr. Data Scientist II","$56K-$97K ","3.5","Argo Group US
+","New York, NY","Hamilton, Bermuda","1001 to 5000 ",1948,"Company - Public","Insurance Carriers","Insurance","$1 to $2 billion (USD)","NY"
+183,"Data Scientist","$56K-$97K ","3.3","BWX Technologies
+","Oak Ridge, TN","Lynchburg, VA","5001 to 10000 ",1850,"Company - Public","Aerospace & Defense","Aerospace & Defense","$500 million to $1 billion (USD)","TN"
+184,"Senior Data Analyst","$56K-$97K ","3.9","Life360
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2008,"Company - Public","Internet","Information Technology","Unknown / Non-Applicable","CA"
+185,"Lead Data Scientist","$56K-$97K ","3.7","MassMutual
+","Boston, MA","Springfield, MA","5001 to 10000 ",1851,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+186,"Production Engineer - Statistics/Data Analysis","$56K-$97K ","3.9","Natera
+","San Carlos, CA","San Carlos, CA","501 to 1000 ",2004,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","CA"
+187,"Statistical Scientist","$56K-$97K ","4","Genentech
+","South San Francisco, CA","South San Francisco, CA","10000+ ",1976,"Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","CA"
+188,"Computational Behavioral Scientist","$56K-$97K ","4.2","Ntrepid
+","Herndon, VA","Herndon, VA","201 to 500 ",2010,"Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","VA"
+189,"Principal Data Scientist - Machine Learning","$56K-$97K ","3.6","Constant Contact
+","Waltham, MA","Waltham, MA","N/A",1995,"Subsidiary or Business Segment","Advertising & Marketing","Business Services","Unknown / Non-Applicable","MA"
+190,"Principal Machine Learning Scientist","$56K-$97K ","4.7","Sage Intacct
+","San Francisco, CA","San Jose, CA","501 to 1000 ",1999,"Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+191,"Data Engineer","$56K-$97K ","4.1","Shape Security
+","Santa Clara, CA","Mountain View, CA","51 to 200 ",2011,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","CA"
+192,"Principal Data Scientist","$56K-$97K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+193,"Data Scientist","$56K-$97K ","5","SkillSoniq
+","San Francisco, CA","Jersey City, NJ","N/A",2016,"Company - Public","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CA"
+194,"Senior Data Scientist - R&D Oncology","$56K-$97K ","4","AstraZeneca
+","New York, NY","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","NY"
+195,"Data Scientist","$56K-$97K ","4.3","Joby Aviation
+","San Carlos, CA","Santa Cruz, CA","51 to 200 ",2009,"Company - Private","Aviation and Aerospace Component Manufacturing","Transportation","Unknown / Non-Applicable","CA"
+196,"Health Plan Data Analyst, Sr","$56K-$97K ","3.8","Cook Children's Health Care System
+","Fort Worth, TX","Fort Worth, TX","5001 to 10000 ",1918,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$100 to $500 million (USD)","TX"
+197,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies","$56K-$97K ","3.8","Rubius Therapeutics
+","Smithfield, RI","Cambridge, MA","201 to 500 ",2013,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","RI"
+198,"Analytics - Business Assurance Data Analyst","$56K-$97K ","4.6","GreatAmerica Financial Services
+","Cedar Rapids, IA","Cedar Rapids, IA","501 to 1000 ",1992,"Company - Private","Lending","Finance","$100 to $500 million (USD)","IA"
+199,"Data Scientist - Contract","$79K-$106K ","4.1","Upside Business Travel
+","Remote","Washington, DC","51 to 200 ",2015,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","Remote"
+200,"Data Scientist","$79K-$106K ","3.4","Spectrum Communications and Consulting
+","Chicago, IL","Chicago, IL","51 to 200 ",1992,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","IL"
+201,"Data Scientist","$79K-$106K ","4.1","Coverent
+","McLean, VA","McLean, VA","51 to 200 ",2008,"Company - Private","Consulting","Business Services","$10 to $25 million (USD)","VA"
+202,"Machine Learning Engineer","$79K-$106K ","3.7","Mteq
+","Fort Belvoir, VA","Lorton, VA","501 to 1000 ",1954,"Company - Public","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","VA"
+203,"Data Engineer","$79K-$106K ","4.4","Rocket Lawyer
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2008,"Company - Private","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","CA"
+204,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab","$79K-$106K ","3.9","Novartis
+","Cambridge, MA","Basel, Switzerland","10000+ ",1996,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+205,"Data Engineer","$79K-$106K ","3.6","Alion Science & Technology
+","Linthicum Heights, MD","Mc Lean, VA","1001 to 5000 ",2001,"Company - Private","Research & Development","Business Services","$1 to $2 billion (USD)","MD"
+206,"Data Science Instructor","$79K-$106K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+207,"Senior Business Intelligence Analyst","$79K-$106K ","3.7","Protolabs
+","Maple Plain, MN","Maple Plain, MN","1001 to 5000 ",1999,"Company - Public","Miscellaneous Manufacturing","Manufacturing","$100 to $500 million (USD)","MN"
+208,"In-Line Inspection Data Analyst","$79K-$106K ","2.9","Quest Integrity
+","Tulsa, OK","Kent, WA","201 to 500 ",1996,"Company - Public","Oil & Gas Services","Oil, Gas, Energy & Utilities","$50 to $100 million (USD)","OK"
+209,"Data Scientist - TS/SCI FSP or CI Required","$79K-$106K ","5","Phoenix Operations Group
+","Annapolis Junction, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+210,"Data Scientist","$79K-$106K ","3.4","Dice.com
+","Newton, MA","Denver, CO","201 to 500 ",1990,"Subsidiary or Business Segment","Staffing & Outsourcing","Business Services","$100 to $500 million (USD)","MA"
+211,"Senior Data Scientist","$79K-$106K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+212,"Data Scientist - TS/SCI Required","$79K-$106K ","5","Phoenix Operations Group
+","Baltimore, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+213,"Data Science Software Engineer","$79K-$106K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+214,"ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR","$79K-$106K ","3.9","Southwest Research Institute
+","Oklahoma City, OK","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","OK"
+215,"AI Ops Data Scientist","$79K-$106K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+216,"Intelligence Data Analyst, Senior","$79K-$106K ","4.3","The Buffalo Group
+","Fort Belvoir, VA","Reston, VA","501 to 1000 ",2010,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","VA"
+217,"Analytics Manager - Data Mart","$79K-$106K ","3.5","Central California Alliance for Health
+","Scotts Valley, CA","Scotts Valley, CA","501 to 1000 ",1996,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","CA"
+218,"Data Modeler (Analytical Systems)","$79K-$106K ","3.7","MassMutual
+","Boston, MA","Springfield, MA","5001 to 10000 ",1851,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+219,"Senior Machine Learning Scientist - Bay Area, CA","$79K-$106K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+220,"Report Writer-Data Analyst","$79K-$106K ","3.1","Security Finance Corporation of Spartanburg
+","Spartanburg, SC","Spartanburg, SC","1001 to 5000 ",1955,"Company - Private","Lending","Finance","Unknown / Non-Applicable","SC"
+221,"Data Scientist/Machine Learning","$71K-$123K ","4.3","PulsePoint
+","New York, NY","New York, NY","51 to 200 ",2011,"Company - Private","Internet","Information Technology","$100 to $500 million (USD)","NY"
+222,"Data Scientist - Risk","$71K-$123K ","4.2","LSQ
+","Orlando, FL","Orlando, FL","51 to 200 ",1996,"Company - Private","Investment Banking & Asset Management","Finance","$100 to $500 million (USD)","FL"
+223,"Data Engineer","$71K-$123K ","4.4","Resurgent Capital Services
+","Cincinnati, OH","Greenville, SC","201 to 500 ",1998,"Company - Private","Venture Capital & Private Equity","Finance","$50 to $100 million (USD)","OH"
+224,"Staff Data Scientist - Pricing","$71K-$123K ","3.6","Opendoor
+","San Francisco, CA","San Francisco, CA","501 to 1000 ",2014,"Company - Private","Real Estate","Real Estate","$2 to $5 billion (USD)","CA"
+225,"Data Scientist","$71K-$123K ","4.5","Global Data Management Inc
+","Hartford, CT","Woodbridge, NJ","51 to 200 ",2008,"Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","CT"
+226,"Data Scientist","$71K-$123K ","3","Photon Infotech
+","Chicago, IL","Chennai, India","1001 to 5000 ",1999,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","IL"
+228,"Machine Learning Engineer","$71K-$123K ","3.6","Riverside Research Institute
+","Beavercreek, OH","Arlington, VA","501 to 1000 ",1967,"Nonprofit Organization","Federal Agencies","Government","$50 to $100 million (USD)","OH"
+229,"Equity Data Insights Analyst - Quantitative Analyst","$71K-$123K ","3.6","T. Rowe Price
+","Baltimore, MD","Baltimore, MD","5001 to 10000 ",1937,"Company - Public","Investment Banking & Asset Management","Finance","$2 to $5 billion (USD)","MD"
+230,"Data Scientist","$71K-$123K ","0","Encode, Inc.","Norfolk, VA","Manalapan, NJ","1 to 50 ",1997,"Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","VA"
+231,"Research Scientist - Patient-Centered Research (Remote)","$71K-$123K ","3.8","Evidera
+","Bethesda, MD","Bethesda, MD","501 to 1000 ",2013,"Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MD"
+232,"Data Scientist","$71K-$123K ","3.3","BWX Technologies
+","Oak Ridge, TN","Lynchburg, VA","5001 to 10000 ",1850,"Company - Public","Aerospace & Defense","Aerospace & Defense","$500 million to $1 billion (USD)","TN"
+233,"Operations Data Analyst","$71K-$123K ","3.8","Brighthouse Financial
+","Charlotte, NC","Charlotte, NC","1001 to 5000 ",2017,"Company - Public","Insurance Carriers","Insurance","Unknown / Non-Applicable","NC"
+234,"Sr. Data Scientist II","$71K-$123K ","3.5","Argo Group US
+","New York, NY","Hamilton, Bermuda","1001 to 5000 ",1948,"Company - Public","Insurance Carriers","Insurance","$1 to $2 billion (USD)","NY"
+235,"Data Scientist","$71K-$123K ","3.3","II-VI Incorporated
+","Champaign, IL","Saxonburg, PA","10000+ ",1971,"Company - Public","Telecommunications Manufacturing","Telecommunications","$1 to $2 billion (USD)","IL"
+236,"Data Scientist","$71K-$123K ","4.6","Surya Systems
+","San Francisco, CA","Bristol, PA","1 to 50 ",1999,"Company - Private","Computer Hardware & Software","Information Technology","Less than $1 million (USD)","CA"
+237,"Data Scientist","$71K-$123K ","3.8","PayPal
+","Austin, TX","San Jose, CA","10000+ ",1998,"Company - Public","Internet","Information Technology","$10+ billion (USD)","TX"
+238,"Senior Data Analyst","$71K-$123K ","3.9","Life360
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2008,"Company - Public","Internet","Information Technology","Unknown / Non-Applicable","CA"
+239,"Data Scientist","$71K-$123K ","3.9","Predictive Research Inc
+","Plano, TX","Bangalore, India","1 to 50 ",2011,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","TX"
+240,"Data Scientist","$90K-$124K ","4.7","Oversight Systems
+","Atlanta, GA","Atlanta, GA","51 to 200 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","GA"
+241,"Senior Research Statistician- Data Scientist","$90K-$124K ","4.8","Acuity Insurance
+","Sheboygan, WI","Sheboygan, WI","1001 to 5000 ",1925,"Company - Private","Insurance Carriers","Insurance","$1 to $2 billion (USD)","WI"
+242,"Software Data Engineer","$90K-$124K ","3.1","1010data
+","New York, NY","New York, NY","201 to 500 ",2000,"Company - Private","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","NY"
+243,"Data Scientist","$90K-$124K ","3.6","Gigya
+","Palo Alto, CA","Mountain View, CA","201 to 500 ",2006,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","CA"
+244,"Real World Evidence (RWE) Scientist","$90K-$124K ","5","Genesis Research
+","Hoboken, NJ","Hoboken, NJ","1 to 50 ",2009,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","NJ"
+245,"Data Scientist","$90K-$124K ","3.7","Sanofi
+","Cambridge, MA","Paris, France","10000+ ",1973,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+246,"Data Scientist","$90K-$124K ","3.7","XPO Logistics
+","Lebanon, IN","Greenwich, CT","10000+ ",2011,"Company - Public","Transportation Management","Transportation & Logistics","$10+ billion (USD)","IN"
+247,"Data Scientist","$90K-$124K ","3.9","Trace Data
+","Oakland, CA","Santa Ana, CA","51 to 200 ",2000,"Company - Private","Insurance Carriers","Insurance","$10 to $25 million (USD)","CA"
+248,"Data Scientist","$90K-$124K ","4.3","Descript
+","San Francisco, CA","San Franciso, CA","1 to 50 ",2017,"Company - Private","Software Development","Technology","Less than $1 million (USD)","CA"
+249,"Computer Scientist 1","$90K-$124K ","4.2","Rincon Research Corporation
+","Melbourne, FL","Tucson, AZ","201 to 500 ",1983,"Company - Private","Aerospace & Defense","Aerospace & Defense","$50 to $100 million (USD)","FL"
+250,"Lead Data Scientist","$90K-$124K ","3.7","MassMutual
+","Boston, MA","Springfield, MA","5001 to 10000 ",1851,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+251,"Data Scientist","$90K-$124K ","4","Better Hire
+","Birmingham, AL","Birmingham, AL","1 to 50 ",2006,"Company - Private","Staffing & Outsourcing","N/A","Unknown / Non-Applicable","AL"
+252,"Data Scientist","$90K-$124K ","3.3","Parker Hannifin
+","Cleveland, OH","Cleveland, OH","10000+ ",1917,"Company - Public","Industrial Manufacturing","Manufacturing","$10+ billion (USD)","OH"
+253,"Data Scientist","$90K-$124K ","4.1","Gallup
+","New York, NY","Washington, DC","1001 to 5000 ",1935,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","NY"
+254,"Data Scientist","$90K-$124K ","3.3","Insider Inc
+","New York, NY","New York, NY","201 to 500 ",2007,"Company - Private","News Outlet","Media","$50 to $100 million (USD)","NY"
+255,"Data Scientist","$90K-$124K ","3.9","Rapid Value Solutions
+","San Francisco, CA","Pleasanton, CA","201 to 500 ",2009,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","CA"
+256,"Environmental Data Science","$90K-$124K ","3.1","Battelle
+","Norwell, MA","Columbus, OH","10000+ ",1929,"Nonprofit Organization","Research & Development","Business Services","$5 to $10 billion (USD)","MA"
+257,"Computational Behavioral Scientist","$90K-$124K ","4.2","Ntrepid
+","Herndon, VA","Herndon, VA","201 to 500 ",2010,"Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","VA"
+259,"Staff BI and Data Engineer","$90K-$124K ","2.9","Affinity Solutions
+","San Jose, CA","New York, NY","51 to 200 ",1998,"Company - Private","Advertising & Marketing","Business Services","Unknown / Non-Applicable","CA"
+260,"Principal Machine Learning Scientist","$90K-$124K ","4.7","Sage Intacct
+","San Francisco, CA","San Jose, CA","501 to 1000 ",1999,"Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","CA"
+261,"Principal Data Scientist - Machine Learning","$90K-$124K ","3.6","Constant Contact
+","Waltham, MA","Waltham, MA","N/A",1995,"Subsidiary or Business Segment","Advertising & Marketing","Business Services","Unknown / Non-Applicable","MA"
+262,"Data Scientist-Human Resources","$91K-$150K ","3.8","MIT Lincoln Laboratory
+","Lexington, MA","Lexington, MA","1001 to 5000 ",1951,"Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MA"
+263,"Associate Data Scientist","$91K-$150K ","3.3","Puget Sound Energy
+","Bothell, WA","Bellevue, WA","1001 to 5000 ",1999,"Company - Private","Utilities","Oil, Gas, Energy & Utilities","$2 to $5 billion (USD)","WA"
+264,"Data Scientist - Statistics, Mid-Career","$91K-$150K ","3.7","Pacific Northwest National Laboratory
+","Richland, WA","Richland, WA","1001 to 5000 ",1965,"Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","WA"
+265,"Director of Data Science","$91K-$150K ","3.8","Analysis Group
+","Boston, MA","Boston, MA","1001 to 5000 ",1981,"Private Practice / Firm","Consulting","Business Services","$100 to $500 million (USD)","MA"
+266,"Data Scientist","$91K-$150K ","3.2","US Pharmacopeia
+","Rockville, MD","Rockville, MD","1001 to 5000 ",1820,"Nonprofit Organization","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MD"
+267,"Data Scientist","$91K-$150K ","4.6","Itlize Global
+","Piscataway, NJ","Piscataway, NJ","201 to 500 ",2010,"Company - Private","IT Services","Information Technology","$10 to $25 million (USD)","NJ"
+268,"Data Scientist","$91K-$150K ","3.5","eBay
+","San Jose, CA","San Jose, CA","10000+ ",1995,"Company - Public","Internet","Information Technology","$10+ billion (USD)","CA"
+269,"Data Engineer, Digital & Comp Pathology","$91K-$150K ","5","Paige
+","New York, NY","New York, NY","1 to 50 ",2018,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","NY"
+270,"Data Engineer","$91K-$150K ","4.1","Shape Security
+","Santa Clara, CA","Mountain View, CA","51 to 200 ",2011,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","CA"
+271,"Manager / Lead, Data Science & Analytics","$91K-$150K ","4.1","ABIOMED
+","Danvers, MA","Danvers, MA","1001 to 5000 ",1981,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MA"
+272,"Data Scientist","$91K-$150K ","3.5","Comcast
+","New York, NY","Philadelphia, PA","10000+ ",1963,"Company - Public","Telecommunications","Media & Technology","$10+ billion (USD)","NY"
+273,"Data Scientist","$91K-$150K ","3.2","Metronome, LLC
+","Vienna, VA","Fairfax, VA","51 to 200 ",2011,"Company - Private","IT Services","Information Technology","$10 to $25 million (USD)","VA"
+274,"Data Scientist","$91K-$150K ","5","SkillSoniq
+","San Francisco, CA","Jersey City, NJ","N/A",2016,"Company - Public","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CA"
+275,"Data Scientist","$91K-$150K ","4.7","Lawrence Livermore National Lab
+","Livermore, CA","Livermore, CA","1001 to 5000 ",1952,"Government","Federal Agencies","Government","$1 to $2 billion (USD)","CA"
+276,"Diversity and Inclusion Data Analyst","$91K-$150K ","3.8","FHLBank Pittsburgh
+","Pittsburgh, PA","Pittsburgh, PA","201 to 500 ",1932,"Company - Private","Banks & Credit Unions","Finance","$1 to $2 billion (USD)","PA"
+277,"Data Scientist","$91K-$150K ","3.6","Jacobs
+","Herndon, VA","Dallas, TX","10000+ ",1947,"Company - Public","Architectural & Engineering Services","Business Services","$10+ billion (USD)","VA"
+278,"Data Scientist","$91K-$150K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+279,"Data Scientist","$91K-$150K ","3.3","Underwriters Laboratories
+","Northbrook, IL","Northbrook, IL","10000+ ",1894,"Company - Private","Consulting","Business Services","$2 to $5 billion (USD)","IL"
+280,"Data Scientist","$91K-$150K ","3.7","Altus Group
+","Irvine, CA","Toronto, Canada","1001 to 5000 ",2005,"Company - Public","Real Estate","Real Estate","$100 to $500 million (USD)","CA"
+281,"Data Scientist","$91K-$150K ","5","Jobot
+","Irvine, CA","Irvine, CA","51 to 200 ",2018,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","CA"
+282,"Data Scientist","$91K-$150K ","0","Trovetechs Inc","San Francisco, CA","Hillsborough, NJ","N/A",2016,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CA"
+283,"Senior Analyst/Data Scientist","$141K-$225K ","3.4","Edmunds.com
+","Santa Monica, CA","Santa Monica, CA","501 to 1000 ",1966,"Company - Private","Internet","Information Technology","$100 to $500 million (USD)","CA"
+284,"Data Scientist","$141K-$225K ","5","Cohere Health
+","Boston, MA","Boston, MA","1 to 50 ",2019,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","MA"
+285,"Data Scientist","$141K-$225K ","0","Trovetechs Inc","San Francisco, CA","Hillsborough, NJ","N/A",2016,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CA"
+286,"Senior Data Scientist - R&D Oncology","$141K-$225K ","4","AstraZeneca
+","New York, NY","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","NY"
+287,"Data Scientist","$141K-$225K ","4.2","Oshkosh Corporation
+","Oshkosh, WI","Oshkosh, WI","10000+ ",1917,"Company - Public","Transportation Equipment Manufacturing","Manufacturing","$5 to $10 billion (USD)","WI"
+288,"Data Scientist","$141K-$225K ","4.3","Joby Aviation
+","San Carlos, CA","Santa Cruz, CA","51 to 200 ",2009,"Company - Private","Aviation and Aerospace Component Manufacturing","Transportation","Unknown / Non-Applicable","CA"
+289,"Data Scientist","$141K-$225K ","3.4","Mackin
+","Menlo Park, CA","Pittsburgh, PA","51 to 200 ",1960,"Company - Private","Architectural & Engineering Services","Business Services","$10 to $25 million (USD)","CA"
+290,"Data Scientist","$141K-$225K ","0","PETADATA","San Francisco, CA","Fremont, CA","51 to 200 ",2014,"Company - Private","IT Services","Technology","Unknown / Non-Applicable","CA"
+291,"Data Scientist","$141K-$225K ","4.4","VBeyond Corporation
+","Dallas, TX","Hillsborough, NJ","201 to 500 ",2006,"Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","TX"
+292,"Data Scientist Machine Learning","$141K-$225K ","3.5","Leidos
+","Arlington, VA","Reston, VA","10000+ ",1969,"Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","VA"
+293,"Data Scientist","$141K-$225K ","3.7","Take-Two
+","San Francisco, CA","New York, NY","1001 to 5000 ",1993,"Company - Public","Video Games","Media","$1 to $2 billion (USD)","CA"
+294,"Data Scientist","$141K-$225K ","3.7","Colony Brands
+","Monroe, WI","Monroe, WI","501 to 1000 ",1926,"Company - Private","Food & Beverage Stores","Retail","$100 to $500 million (USD)","WI"
+295,"Data Scientist","$141K-$225K ","4.1","Capio Group
+","Sacramento, CA","Goteborg, Sweden","10000+ ",1994,"Hospital","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","CA"
+296,"Data Scientist","$141K-$225K ","3.4","SleePare
+","New York, NY","New York, NY","1 to 50 ",2017,"Company - Private","Other Retail Stores","Retail","Unknown / Non-Applicable","NY"
+297,"Data Analyst","$141K-$225K ","4.5","ShorePoint
+","Reston, VA","Washington, DC","1 to 50 ",2017,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","VA"
+298,"Data Scientist","$141K-$225K ","3.5","Dolphin
+","New York, NY","Lake Buena Vista, FL","1001 to 5000 ",1990,"Company - Private","Hotels, Motels, & Resorts","Travel & Tourism","Unknown / Non-Applicable","NY"
+299,"Data Scientist","$141K-$225K ","3.6","TE Connectivity
+","Hampton, VA","Schaffhausen, Switzerland","10000+ ",2007,"Company - Public","Electrical & Electronic Manufacturing","Manufacturing","$10+ billion (USD)","VA"
+300,"Data Scientist","$141K-$225K ","3.2","State of Virginia
+","Richmond, VA","Richmond, VA","10000+ ",1788,"Government","State & Regional Agencies","Government","$10+ billion (USD)","VA"
+301,"Data Scientist","$141K-$225K ","3.7","TA Digital
+","New York, NY","Newark, CA","501 to 1000 ",2000,"Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","NY"
+302,"Data Scientist","$141K-$225K ","4","Market America Inc
+","Monterey, CA","Greensboro, NC","501 to 1000 ",1992,"Company - Private","Other Retail Stores","Retail","$100 to $500 million (USD)","CA"
+303,"Data Scientist","$145K-$225K","3.2","Triplebyte
+","Chicago, IL","San Francisco, CA","51 to 200 ",2015,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","IL"
+304,"Data Scientist","$145K-$225K","4.5","Kingfisher Systems
+","McLean, VA","Falls Church, VA","51 to 200 ",2005,"Company - Private","Federal Agencies","Government","$25 to $50 million (USD)","VA"
+305,"Chief Scientist","$145K-$225K","3.4","TrueAccord
+","Remote","San Francisco, CA","51 to 200 ",2013,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","Remote"
+306,"Data Scientist","$145K-$225K","3.9","ALTA IT Services
+","Woodlawn, MD","Rockville, MD","201 to 500 ",2004,"Company - Private","IT Services","Information Technology","$10 to $25 million (USD)","MD"
+307,"Data Scientist","$145K-$225K","3.2","Kollasoft Inc.
+","Scottsdale, AZ","Scottsdale, AZ","1 to 50 ",2007,"Company - Private","Software Development","Technology","$1 to $5 million (USD)","AZ"
+308,"Data Scientist","$145K-$225K","5","Kollasoft Inc.
+","Scottsdale, AZ","Scottsdale, AZ","N/A",2007,"Company - Public","Software Development","Technology","Unknown / Non-Applicable","AZ"
+309,"Data Scientist","$145K-$225K","3.4","ASRC Federal Holding Company
+","Reston, VA","Beltsville, MD","5001 to 10000 ",2003,"Company - Private","Aerospace & Defense","Aerospace & Defense","$500 million to $1 billion (USD)","VA"
+310,"Data Scientist","$145K-$225K","4.4","Adwait Algorithm
+","New York, NY","Houston, TX","51 to 200 ",2015,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","NY"
+311,"Health Plan Data Analyst, Sr","$145K-$225K","3.8","Cook Children's Health Care System
+","Fort Worth, TX","Fort Worth, TX","5001 to 10000 ",1918,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$100 to $500 million (USD)","TX"
+312,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies","$145K-$225K","3.8","Rubius Therapeutics
+","Smithfield, RI","Cambridge, MA","201 to 500 ",2013,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","RI"
+313,"Data Scientist","$145K-$225K","3.5","Cambridge FX
+","Atlanta, GA","Toronto, Canada","201 to 500 ",1992,"Company - Public","Financial Transaction Processing","Finance","$100 to $500 million (USD)","GA"
+314,"Senior Data Scientist","$145K-$225K","3.8","Metromile
+","San Francisco, CA","San Francisco, CA","201 to 500 ",2011,"Company - Private","Insurance Carriers","Insurance","Unknown / Non-Applicable","CA"
+315,"Data Scientist","$145K-$225K","3.9","Criteo
+","Ann Arbor, MI","Paris, France","1001 to 5000 ",2005,"Company - Public","Internet","Information Technology","$2 to $5 billion (USD)","MI"
+316,"Data Scientist","$145K-$225K","3.4","Advance Sourcing Concepts
+","Pittsburgh, PA","Pittsburgh, PA","51 to 200 ",2005,"Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","PA"
+317,"Data Scientist","$145K-$225K","3.8","Enterprise Solutions Inc
+","New York, NY","Naperville, IL","51 to 200 ",2000,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","NY"
+318,"Analytics - Business Assurance Data Analyst","$145K-$225K","4.6","GreatAmerica Financial Services
+","Cedar Rapids, IA","Cedar Rapids, IA","501 to 1000 ",1992,"Company - Private","Lending","Finance","$100 to $500 million (USD)","IA"
+319,"Data Scientist","$145K-$225K","0","Microagility","New York, NY","Princeton, NJ","1 to 50 ",2003,"Company - Private","Consulting","Business Services","$1 to $5 million (USD)","NY"
+320,"Data Scientist","$145K-$225K","4.6","Conch Technologies, Inc
+","Concord, CA","Memphis, TN","51 to 200 ",2004,"Company - Private","Consulting","Business Services","$5 to $10 million (USD)","CA"
+321,"Development Scientist, Voltaren","$145K-$225K","3.9","GSK
+","Richmond, VA","Brentford, United Kingdom","10000+ ",1830,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","VA"
+322,"Data Scientist","$145K-$225K","0","Rainmaker Resources, LLC","Cincinnati, OH","Cincinnati, OH","1 to 50 ",2010,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","OH"
+323,"Data Scientist","$79K-$147K ","3.7","GovTech
+","San Francisco, CA","Singapore, Singapore","1001 to 5000 ",2016,"Government","Federal Agencies","Government","Unknown / Non-Applicable","CA"
+324,"Data Scientist","$79K-$147K ","3.3","Intellectual Ventures
+","Bellevue, WA","Bellevue, WA","501 to 1000 ",2000,"Company - Private","Investment Banking & Asset Management","Finance","Unknown / Non-Applicable","WA"
+325,"Data Engineer","$79K-$147K ","4.4","Rocket Lawyer
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2008,"Company - Private","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","CA"
+326,"Data Scientist","$79K-$147K ","3.7","22nd Century Technologies
+","Oakland, CA","Somerset, NJ","1001 to 5000 ",1997,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","CA"
+327,"Data Scientist","$79K-$147K ","3.3","Huxley
+","San Francisco, CA","London, United Kingdom","201 to 500 ",1995,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","CA"
+328,"Data Scientist","$79K-$147K ","3.4","FM Systems
+","Boston, MA","Raleigh, NC","51 to 200 ",1984,"Company - Private","Computer Hardware & Software","Information Technology","$5 to $10 million (USD)","MA"
+329,"Data Scientist","$79K-$147K ","0","B4Corp","Reston, VA","Leesburg, VA","51 to 200 ",2010,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","VA"
+330,"Machine Learning Engineer","$79K-$147K ","3.7","Mteq
+","Fort Belvoir, VA","Lorton, VA","501 to 1000 ",1954,"Company - Public","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","VA"
+331,"Principal Data & Analytics Platform Engineer","$79K-$147K ","3.7","Blue Cross and Blue Shield of North Carolina
+","Durham, NC","Durham, NC","1001 to 5000 ",1933,"Company - Private","Insurance Carriers","Insurance","$5 to $10 billion (USD)","NC"
+332,"Machine Learning Engineer/Scientist","$79K-$147K ","4.8","Jane Street
+","New York, NY","New York, NY","501 to 1000 ",2000,"Company - Private","Investment Banking & Asset Management","Finance","Unknown / Non-Applicable","NY"
+333,"Data Scientist","$79K-$147K ","5","SSATI
+","McLean, VA","Annapolis Junction, MD","1 to 50 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","VA"
+334,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab","$79K-$147K ","3.9","Novartis
+","Cambridge, MA","Basel, Switzerland","10000+ ",1996,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+335,"Data Scientist","$79K-$147K ","3.4","Solving IT International Inc
+","Chicago, IL","Chicago, IL","501 to 1000 ",1992,"Company - Private","IT Services","Technology Consulting","Unknown / Non-Applicable","IL"
+336,"Data Scientist","$79K-$147K ","3.3","The Davey Tree Expert Company
+","Kent, OH","Kent, OH","10000+ ",1880,"Self-employed","Timber Operations","Agriculture & Forestry","$1 to $2 billion (USD)","OH"
+337,"Data Scientist","$79K-$147K ","4.6","Centauri
+","Reston, VA","Chantilly, VA","501 to 1000 ",1999,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","VA"
+338,"Data Scientist","$79K-$147K ","0","Stride Search","San Francisco, CA","Westlake Village, CA","1 to 50 ",2012,"Company - Private","Staffing & Outsourcing","Business Services","Less than $1 million (USD)","CA"
+339,"Machine Learning Engineer","$79K-$147K ","2.6","Software Engineering Institute
+","Pittsburgh, PA","Pittsburgh, PA","501 to 1000 ",1984,"College / University","Colleges & Universities","Education","Unknown / Non-Applicable","PA"
+340,"Data Analyst - Unilever Prestige","$79K-$147K ","3.8","Dermalogica
+","Carson, CA","Carson, CA","201 to 500 ",1986,"Subsidiary or Business Segment","Consumer Products Manufacturing","Manufacturing","$100 to $500 million (USD)","CA"
+341,"Data Scientist","$79K-$147K ","4.8","TechProjects
+","New York, NY","North Brunswick, NJ","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","NY"
+342,"VP, Data Science","$79K-$147K ","3.9","7Park Data
+","New York, NY","New York, NY","51 to 200 ",2012,"Company - Private","Research & Development","Business Services","Unknown / Non-Applicable","NY"
+343,"Data Scientist","$122K-$146K ","4","Netskope
+","Santa Clara, CA","Santa Clara, CA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","CA"
+344,"Data Scientist","$122K-$146K ","4.2","Eversight
+","Palo Alto, CA","Palo Alto, CA","51 to 200 ",2013,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","CA"
+345,"Senior Business Intelligence Analyst","$122K-$146K ","3.7","Protolabs
+","Maple Plain, MN","Maple Plain, MN","1001 to 5000 ",1999,"Company - Public","Miscellaneous Manufacturing","Manufacturing","$100 to $500 million (USD)","MN"
+346,"Data Scientist","$122K-$146K ","3","Ameritas Life Insurance Corp
+","Cincinnati, OH","Lincoln, NE","1001 to 5000 ",1887,"Company - Private","Insurance Agencies & Brokerages","Insurance","$2 to $5 billion (USD)","OH"
+347,"Data Engineer - Kafka","$122K-$146K ","3.5","Western Digital
+","San Jose, CA","San Jose, CA","10000+ ",1970,"Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","CA"
+348,"Data Scientist","$122K-$146K ","2.9","Shimento, Inc.
+","Santa Clara, CA","Walnut Creek, CA","1 to 50 ",2009,"Company - Private","IT Services","Technology","$1 to $5 million (USD)","CA"
+349,"Data Scientist","$122K-$146K ","5","Averity
+","New York, NY","New York, NY","1 to 50 ",2014,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","NY"
+350,"Data Scientist","$122K-$146K ","4.7","Praxis Engineering
+","Chantilly, VA","Annapolis Junction, MD","201 to 500 ",2002,"Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","VA"
+351,"Data Scientist","$122K-$146K ","0","Point72 Ventures","Palo Alto, CA","Stamford, CT","N/A",2016,"Company - Private","Venture Capital & Private Equity","Finance","-1","CA"
+352,"Decision Scientist","$122K-$146K ","4.5","Johns Hopkins University Applied Physics Laboratory
+","Laurel, MD","Laurel, MD","5001 to 10000 ",1942,"Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","MD"
+353,"Data Scientist","$122K-$146K ","4.9","Cambridge Mobile Telematics
+","Cambridge, MA","Cambridge, MA","1 to 50 ",2010,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","MA"
+354,"Data Science All Star Program - Data Engineer Track","$122K-$146K ","4.6","Blend360
+","Columbia, MD","Columbia, MD","51 to 200 ",2002,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","MD"
+355,"Data Scientist - TS/SCI FSP or CI Required","$122K-$146K ","5","Phoenix Operations Group
+","Annapolis Junction, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+356,"Data Analyst","$122K-$146K ","3.9","Nolij Consulting
+","Falls Church, VA","Vienna, VA","51 to 200 ",2012,"Company - Public","Consulting","Business Services","$1 to $5 million (USD)","VA"
+357,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+358,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+359,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+360,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+361,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+362,"Data Scientist","$122K-$146K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+363,"Senior Data Scientist","$122K-$146K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+364,"Data Scientist","$112K-$116K ","4.3","Quick Base
+","Cambridge, MA","Cambridge, MA","201 to 500 ",1999,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","MA"
+365,"Data Scientist","$112K-$116K ","3.7","Takeda
+","Cambridge, MA","OSAKA, Japan","10000+ ",1781,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+366,"Data Scientist","$112K-$116K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+367,"ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR","$112K-$116K ","3.9","Southwest Research Institute
+","Oklahoma City, OK","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","OK"
+368,"Data Scientist","$112K-$116K ","4.7","Compass Consulting Group
+","Thousand Oaks, CA","Danville, CA","51 to 200 ",2008,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","CA"
+369,"Data Science Software Engineer","$112K-$116K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+370,"AI Ops Data Scientist","$112K-$116K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+371,"Data Scientist","$112K-$116K ","4.4","SolutionIT, Inc.
+","Edison, NJ","Wilmington, MA","51 to 200 ",2006,"Company - Private","Information Technology & Services","Business Services","Unknown / Non-Applicable","NJ"
+372,"Data Scientist","$112K-$116K ","3.2","Perspecta
+","Adelphi, MD","Chantilly, VA","10000+ ",2018,"Company - Public","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MD"
+373,"Data Scientist","$112K-$116K ","4.5","Smith Hanley Associates
+","Washington, DC","New York, 061","1 to 50 ",1980,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","DC"
+374,"Scientist - Machine Learning","$112K-$116K ","3.5","Allen Institute
+","Seattle, WA","Seattle, WA","201 to 500 ",2003,"Nonprofit Organization","Research & Development","Business Services","$100 to $500 million (USD)","WA"
+375,"Data Scientist","$112K-$116K ","4.4","Eliassen Group
+","Plano, TX","Reading, MA","1001 to 5000 ",1989,"Company - Private","Staffing & Outsourcing","Business Services","$100 to $500 million (USD)","TX"
+376,"Data Scientist","$112K-$116K ","3.1","Bayside Solutions
+","Sunnyvale, CA","Pleasanton, CA","1 to 50 ",2001,"Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","CA"
+377,"Sr. Data Scientist","$112K-$116K ","3.5","Evolve Vacation Rental
+","Denver, CO","Denver, CO","201 to 500 ",2011,"Company - Private","Travel Agencies","Travel & Tourism","Unknown / Non-Applicable","CO"
+378,"Data Scientist","$112K-$116K ","3.8","AgreeYa Solutions
+","Thousand Oaks, CA","Folsom, CA","1001 to 5000 ",1999,"Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","CA"
+379,"Data Scientist","$112K-$116K ","3.7","Carolina Power & Light Co
+","McLean, VA","Raleigh, NC","5001 to 10000 ",1908,"Subsidiary or Business Segment","Energy","Oil, Gas, Energy & Utilities","Unknown / Non-Applicable","VA"
+380,"Analytics Manager - Data Mart","$112K-$116K ","3.5","Central California Alliance for Health
+","Scotts Valley, CA","Scotts Valley, CA","501 to 1000 ",1996,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","CA"
+381,"Data Modeler (Analytical Systems)","$112K-$116K ","3.7","MassMutual
+","Boston, MA","Springfield, MA","5001 to 10000 ",1851,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+382,"Applied AI Scientist / Engineer","$112K-$116K ","5","New Iron Group, Inc.
+","Boston, MA","Austin, TX","1 to 50 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+383,"Data Engineer (Analytics, SQL, Python, AWS)","$112K-$116K ","4","Travelers
+","Hartford, CT","Hartford, CT","10000+ ",1853,"Company - Public","Insurance Carriers","Insurance","$10+ billion (USD)","CT"
+384,"Senior Data Analyst - Finance & Platform Analytics","$112K-$116K ","3.6","Twitch
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2011,"Subsidiary or Business Segment","Internet","Information Technology","Unknown / Non-Applicable","CA"
+385,"Senior Data Scientist","$110K-$163K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+386,"Market Research Data Scientist","$110K-$163K ","3.8","GutCheck
+","Denver, CO","Denver, CO","51 to 200 ",2009,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","CO"
+387,"IT Partner Digital Health Technology and Data Science","$110K-$163K ","3.6","Biogen
+","Cambridge, MA","Cambridge, MA","5001 to 10000 ",1978,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+390,"Senior Machine Learning Scientist - Bay Area, CA","$110K-$163K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+391,"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG","$110K-$163K ","4.1","Mentor Graphics
+","Fremont, CA","Wilsonville, OR","5001 to 10000 ",1981,"Company - Public","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","CA"
+392,"Senior Clinical Data Scientist Programmer","$110K-$163K ","3.6","WCG (WIRB-Copernicus Group)
+","Hamilton, NJ","Princeton, NJ","1001 to 5000 ",2012,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","NJ"
+393,"Data Engineer","$110K-$163K ","4.5","Kingfisher Systems
+","Falls Church, VA","Falls Church, VA","51 to 200 ",2005,"Company - Private","Federal Agencies","Government","$25 to $50 million (USD)","VA"
+394,"Computer Vision / Deep Learning Scientist","$110K-$163K ","3.3","Tempus Labs
+","Chicago, IL","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","IL"
+395,"Data Solutions Engineer - Data Modeler","$110K-$163K ","3.4","Liberty Mutual Insurance
+","Indianapolis, IN","Boston, MA","10000+ ",1912,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","IN"
+396,"Data Scientist","$110K-$163K ","4.3","Visionary Integration Professionals
+","Washington, DC","Folsom, CA","501 to 1000 ",1996,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","DC"
+397,"Data Scientist (TS/SCI w/ Poly)","$110K-$163K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+398,"Weapons and Sensors Engineer/Scientist","$110K-$163K ","4","Dynetics
+","Huntsville, AL","Huntsville, AL","1001 to 5000 ",1974,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","AL"
+399,"Applied Computer Scientist","$110K-$163K ","4.5","Systems & Technology Research
+","Woburn, MA","Woburn, MA","201 to 500 ",2010,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","MA"
+400,"Senior Data Analyst","$110K-$163K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+401,"Cloud Data Engineer (Azure)","$110K-$163K ","3.9","Navy Federal Credit Union
+","Merrifield, VA","Vienna, VA","10000+ ",1933,"Other Organization","Banks & Credit Unions","Finance","Unknown / Non-Applicable","VA"
+402,"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift","$110K-$163K ","4","Exact Sciences Corporation
+","Madison, WI","Madison, WI","1001 to 5000 ",1995,"Company - Public","Health Care Services & Hospitals","Health Care","$100 to $500 million (USD)","WI"
+403,"Sr. Data Analyst","$110K-$163K ","3.6","Community Behavioral Health
+","Philadelphia, PA","Phila, PA","201 to 500 ",1994,"Company - Private","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","PA"
+404,"Senior Scientist - Toxicologist - Product Integrity (Stewardship)","$110K-$163K ","3.3","Reynolds American
+","Winston-Salem, NC","Winston-Salem, NC","5001 to 10000 ",1875,"Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","NC"
+405,"Senior Machine Learning Engineer","$110K-$163K ","5","LifeOmic
+","Raleigh, NC","Indianapolis, IN","51 to 200 ",2016,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","NC"
+406,"Product Data Scientist - Ads Data Science","$124K-$198K ","4.1","Twitter
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2006,"Company - Public","Internet","Information Technology","$2 to $5 billion (USD)","CA"
+407,"Data Scientist","$124K-$198K ","3.2","Postmates - Corporate HQ
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2011,"Company - Private","Express Delivery Services","Transportation & Logistics","Unknown / Non-Applicable","CA"
+408,"Data Scientist","$124K-$198K ","4.9","Visionist, Inc.
+","Columbia, MD","Columbia, MD","51 to 200 ",2010,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","MD"
+409,"Data Scientist","$124K-$198K ","0","Navio","San Mateo, CA","Half Moon Bay, CA","N/A",1954,"Company - Private","Other Healthcare Technologies","Transportation & Logistics","Unknown / Non-Applicable","CA"
+410,"Data Scientist","$124K-$198K ","3.3","Concerto HealthAI
+","Boston, MA","Boston, MA","201 to 500 ",2018,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","MA"
+411,"Data Scientist","$124K-$198K ","0","Evolvinc","Burbank, CA","Los Angeles, CA","1 to 50 ",2005,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","CA"
+412,"Data Scientist","$124K-$198K ","5","PROPRIUS
+","Sunnyvale, CA","London, United Kingdom","1 to 50 ",2005,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","CA"
+413,"Data Scientist","$124K-$198K ","3.4","TECHNOCRAFT Solutions
+","San Ramon, CA","Hilliard, OH","1 to 50 ",2013,"Company - Private","Advertising & Marketing","Business Services","$1 to $5 million (USD)","CA"
+414,"Data Scientist","$124K-$198K ","4.1","Latitude, Inc.
+","Washington, DC","Hanover, MD","1 to 50 ",2003,"Company - Private","Consulting","Business Services","$1 to $5 million (USD)","DC"
+415,"Data Scientist","$124K-$198K ","5","Royce Geospatial
+","Springfield, VA","Arlington, VA","51 to 200 ",2014,"Company - Private","Aerospace & Defense","Aerospace & Defense","$10 to $25 million (USD)","VA"
+416,"Data Scientist","$124K-$198K ","4.2","CyberCoders
+","Phoenix, AZ","Irvine, CA","201 to 500 ",1999,"Subsidiary or Business Segment","Staffing & Outsourcing","Business Services","$100 to $500 million (USD)","AZ"
+417,"Data Scientist","$124K-$198K ","3.7","Booz Allen Hamilton Inc.
+","Oxnard, CA","Mc Lean, VA","10000+ ",1914,"Company - Public","Consulting","Business Services","$5 to $10 billion (USD)","CA"
+418,"Data Scientist","$124K-$198K ","3.8","Burns & McDonnell
+","Kansas City, MO","Kansas City, MO","5001 to 10000 ",1898,"Company - Private","Architectural & Engineering Services","Business Services","$1 to $2 billion (USD)","MO"
+419,"Data Scientist","$124K-$198K ","4.8","InvenTech Info
+","Jersey City, NJ","Bengaluru, India","201 to 500 ",2010,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","NJ"
+420,"Data Scientist","$124K-$198K ","3.5","Robert Half
+","Manchester, NH","Menlo Park, CA","10000+ ",1948,"Company - Public","Staffing & Outsourcing","Business Services","$2 to $5 billion (USD)","NH"
+421,"Analytics - Business Assurance Data Analyst","$124K-$198K ","4.6","GreatAmerica Financial Services
+","Cedar Rapids, IA","Cedar Rapids, IA","501 to 1000 ",1992,"Company - Private","Lending","Finance","$100 to $500 million (USD)","IA"
+422,"Data Scientist","$124K-$198K ","4.5","Conflux Systems Inc.
+","Winters, TX","Alpharetta, GA","1 to 50 ",2007,"Company - Private","Accounting","Accounting & Legal","Less than $1 million (USD)","TX"
+423,"Data Scientist","$124K-$198K ","3.9","Criteo
+","Ann Arbor, MI","Paris, France","1001 to 5000 ",2005,"Company - Public","Internet","Information Technology","$2 to $5 billion (USD)","MI"
+424,"Data Scientist","$124K-$198K ","3.4","Voice
+","Brooklyn, NY","-1","N/A",2020,"Company - Private","Internet Marketplace Platforms","Media","Unknown / Non-Applicable","NY"
+425,"Data Scientist","$124K-$198K ","0","Microagility","New York, NY","Princeton, NJ","1 to 50 ",2003,"Company - Private","Consulting","Business Services","$1 to $5 million (USD)","NY"
+426,"Data Scientist","$124K-$198K ","4.1","Coverent
+","McLean, VA","McLean, VA","51 to 200 ",2008,"Company - Private","Consulting","Business Services","$10 to $25 million (USD)","VA"
+427,"Data Scientist","$79K-$133K ","3.7","Via Transportation
+","New York, NY","New York, NY","501 to 1000 ",2012,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","NY"
+428,"Senior Data Scientist","$79K-$133K ","3.5","Benson Hill
+","Saint Louis, MO","Saint Louis, MO","201 to 500 ",2012,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","MO"
+429,"Data Scientist","$79K-$133K ","4.6","Conch Technologies, Inc
+","Concord, CA","Memphis, TN","51 to 200 ",2004,"Company - Private","Consulting","Business Services","$5 to $10 million (USD)","CA"
+430,"Data Scientist","$79K-$133K ","0","Falcon IT & Staffing Solutions","Fort Belvoir, VA","Delray Beach, FL","N/A",2013,"Company - Public","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","VA"
+431,"Data Scientist","$79K-$133K ","0","Rainmaker Resources, LLC","Cincinnati, OH","Cincinnati, OH","1 to 50 ",2010,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","OH"
+432,"Data Engineer","$79K-$133K ","4.4","Rocket Lawyer
+","San Francisco, CA","San Francisco, CA","51 to 200 ",2008,"Company - Private","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","CA"
+433,"Data Scientist","$79K-$133K ","3.6","DataLab USA
+","Germantown, MD","Germantown, MD","51 to 200 ",1979,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","MD"
+434,"Data Scientist","$79K-$133K ","3.1","Werner Enterprises Inc
+","Omaha, NE","Omaha, NE","10000+ ",1956,"Company - Public","Logistics & Supply Chain","Transportation & Logistics","$2 to $5 billion (USD)","NE"
+435,"Data Scientist","$79K-$133K ","5","PeopleCom
+","McLean, VA","Reston, VA","1 to 50 ",1999,"Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","VA"
+436,"Data Scientist - Machine Learning","$79K-$133K ","5","VANTA Partners
+","Open Fork, VA","Clifton Park, NY","1 to 50 ",2018,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","VA"
+437,"Data Scientist","$79K-$133K ","0","B4Corp","Reston, VA","Leesburg, VA","51 to 200 ",2010,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","VA"
+438,"Data Scientist","$79K-$133K ","0","Blue Icy Water, LLC","Livonia, MI","Livonia, MI","1 to 50 ",2014,"Company - Private","N/A","N/A","Unknown / Non-Applicable","MI"
+439,"Data Scientist","$79K-$133K ","3.5","Farmer's Business Network, Inc.
+","San Carlos, CA","San Carlos, CA","201 to 500 ",2014,"Company - Private","Farm Support Services","Agriculture & Forestry","Unknown / Non-Applicable","CA"
+440,"Data Scientist","$79K-$133K ","0","Sonde Health","Boston, MA","Boston, MA","1 to 50 ",2015,"Private Practice / Firm","Health Care Services & Hospitals","Health Care","Less than $1 million (USD)","MA"
+441,"Data Scientist","$79K-$133K ","5","Maxiom Technology","Ashburn, VA","Ashburn, VA","1 to 50 ",2002,"Company - Public","Biotechnology Research","Health Care","Unknown / Non-Applicable","VA"
+442,"Data Scientist","$79K-$133K ","2.7","Change Healthcare
+","Lombard, IL","Nashville, TN","10000+ ",2007,"Company - Public","IT Services","Information Technology","Unknown / Non-Applicable","IL"
+443,"Data Scientist","$79K-$133K ","4.1","DCS Corp
+","Hampton, VA","Alexandria, VA","1001 to 5000 ",1977,"Company - Private","Research & Development","Business Services","$100 to $500 million (USD)","VA"
+444,"Data Scientist","$79K-$133K ","2.1","Hive (CA)
+","San Francisco, CA","Los Angeles, CA","N/A",2019,"Company - Private","Telecommunications Services","Telecommunications","Unknown / Non-Applicable","CA"
+445,"Machine Learning Engineer/Scientist","$79K-$133K ","4.8","Jane Street
+","New York, NY","New York, NY","501 to 1000 ",2000,"Company - Private","Investment Banking & Asset Management","Finance","Unknown / Non-Applicable","NY"
+446,"Data Scientist - Intermediate","$69K-$116K ","4.5","Envision LLC
+","Saint Louis, MO","Saint Louis, MO","201 to 500 ",1994,"Company - Private","Staffing & Outsourcing","Business Services","$25 to $50 million (USD)","MO"
+447,"Principal Data Scientist","$69K-$116K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+448,"Data Scientist","$69K-$116K ","3.3","Hackensack Meridian Health
+","Edison, NJ","Edison, NJ","10000+ ",2016,"Nonprofit Organization","Health Care Services & Hospitals","Health Care","$5 to $10 billion (USD)","NJ"
+449,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab","$69K-$116K ","3.9","Novartis
+","Cambridge, MA","Basel, Switzerland","10000+ ",1996,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+450,"Data Scientist","$69K-$116K ","3.2","Net2Source Inc.
+","Alpharetta, GA","Somerset, NJ","1001 to 5000 ",2007,"Company - Private","Staffing & Outsourcing","Business Services","$100 to $500 million (USD)","GA"
+451,"Data Scientist","$69K-$116K ","3.2","The Trade Desk
+","Boulder, CO","Ventura, CA","1001 to 5000 ",2009,"Company - Public","Internet","Information Technology","Unknown / Non-Applicable","CO"
+452,"Data Scientist- Industrial Discrete Sector Industry","$69K-$116K ","3.7","IBM
+","Atlanta, GA","Armonk, NY","10000+ ",1911,"Company - Public","IT Services","Information Technology","$10+ billion (USD)","GA"
+453,"Data Scientist","$69K-$116K ","4.4","Knowesis Inc.
+","Falls Church, VA","Fairfax, VA","51 to 200 ",2007,"Company - Private","Consulting","Business Services","$25 to $50 million (USD)","VA"
+454,"Data Scientist","$69K-$116K ","3.1","MoTek Technologies
+","Mountain View, CA","San Jose, CA","1 to 50 ",2009,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","CA"
+455,"Data Scientist","$69K-$116K ","3.3","The Davey Tree Expert Company
+","Kent, OH","Kent, OH","10000+ ",1880,"Self-employed","Timber Operations","Agriculture & Forestry","$1 to $2 billion (USD)","OH"
+456,"Data Scientist","$69K-$116K ","3.5","HPOne
+","Trumbull, CT","Trumbull, CT","501 to 1000 ",2006,"Company - Private","Insurance Carriers","Insurance","$50 to $100 million (USD)","CT"
+457,"Data Scientist","$69K-$116K ","0","Stride Search","San Francisco, CA","Westlake Village, CA","1 to 50 ",2012,"Company - Private","Staffing & Outsourcing","Business Services","Less than $1 million (USD)","CA"
+458,"Machine Learning Engineer","$69K-$116K ","2.6","Software Engineering Institute
+","Pittsburgh, PA","Pittsburgh, PA","501 to 1000 ",1984,"College / University","Colleges & Universities","Education","Unknown / Non-Applicable","PA"
+459,"Data Scientist","$69K-$116K ","0","Blue Cloak LLC","Sterling, VA","Sterling, VA","N/A",2015,"N/A","Computer and Network Security","Internet Technology","-1","VA"
+460,"Data Scientist","$69K-$116K ","2.7","TBWA\Chiat\Day
+","New York, NY","New York, NY","1001 to 5000 ",1968,"Company - Public","Advertising & Marketing","Business Services","$100 to $500 million (USD)","NY"
+461,"Data Scientist","$69K-$116K ","3.5","ThreeBridge Solutions
+","Alpharetta, GA","Minneapolis, MN","501 to 1000 ",2009,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","GA"
+462,"Data Scientist","$69K-$116K ","3.2","Numeric, LLC
+","Philadelphia, PA","Chadds Ford, PA","1 to 50 ",1999,"Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","PA"
+463,"Data Analyst - Unilever Prestige","$69K-$116K ","3.8","Dermalogica
+","Carson, CA","Carson, CA","201 to 500 ",1986,"Subsidiary or Business Segment","Consumer Products Manufacturing","Manufacturing","$100 to $500 million (USD)","CA"
+464,"Data Scientist","$69K-$116K ","4.2","Centraprise
+","Foster City, CA","Edison, NJ","51 to 200 ",2019,"Company - Private","IT Services","Information Technology","Less than $1 million (USD)","CA"
+465,"Data Scientist","$69K-$116K ","4.8","TechProjects
+","New York, NY","North Brunswick, NJ","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","NY"
+466,"Data Scientist","$69K-$116K ","4.2","DW Simpson
+","Frederick, MD","Chicago, IL","51 to 200 ",1989,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","MD"
+467,"Data & Machine Learning Scientist","$31K-$56K ","3.3","Tempus Labs
+","Chicago, IL","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","IL"
+468,"Data Scientist","$31K-$56K ","4","Grid Dynamics
+","Santa Clara, CA","San Ramon, CA","1001 to 5000 ",2006,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$50 to $100 million (USD)","CA"
+469,"VP, Data Science","$31K-$56K ","3.9","7Park Data
+","New York, NY","New York, NY","51 to 200 ",2012,"Company - Private","Research & Development","Business Services","Unknown / Non-Applicable","NY"
+470,"Senior Business Intelligence Analyst","$31K-$56K ","3.7","Protolabs
+","Maple Plain, MN","Maple Plain, MN","1001 to 5000 ",1999,"Company - Public","Miscellaneous Manufacturing","Manufacturing","$100 to $500 million (USD)","MN"
+471,"Data Scientist","$31K-$56K ","3.9","LinQuest
+","Colorado Springs, CO","Los Angeles, CA","501 to 1000 ",2004,"Company - Private","Aerospace & Defense","Aerospace & Defense","$50 to $100 million (USD)","CO"
+472,"Data Engineer - Kafka","$31K-$56K ","3.5","Western Digital
+","San Jose, CA","San Jose, CA","10000+ ",1970,"Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","CA"
+473,"Data Scientist","$31K-$56K ","4","Trexquant Investment
+","Stamford, CT","Stamford, CT","1 to 50 ",2012,"Company - Private","Investment Banking & Asset Management","Finance","Unknown / Non-Applicable","CT"
+474,"Data Scientist","$31K-$56K ","3","Ameritas Life Insurance Corp
+","Cincinnati, OH","Lincoln, NE","1001 to 5000 ",1887,"Company - Private","Insurance Agencies & Brokerages","Insurance","$2 to $5 billion (USD)","OH"
+475,"Data Scientist","$31K-$56K ","3.7","Fleetcor
+","Atlanta, GA","Atlanta, GA","5001 to 10000 ",2000,"Company - Public","Financial Transaction Processing","Finance","$2 to $5 billion (USD)","GA"
+476,"Data Scientist","$31K-$56K ","4.5","Radiant Digital
+","Washington, DC","New York, NY","1 to 50 ",2000,"Company - Private","IT Services","Technology","Less than $1 million (USD)","DC"
+477,"Data Scientist","$31K-$56K ","2.8","Child Care Aware of America
+","Arlington, VA","Arlington, VA","51 to 200 ",1987,"Nonprofit Organization","Social Assistance","Non-Profit","$25 to $50 million (USD)","VA"
+478,"Data Scientist","$31K-$56K ","4.1","IntelliPro Group Inc.
+","Santa Clara, CA","Santa Clara, CA","201 to 500 ",2009,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","CA"
+479,"In-Line Inspection Data Analyst","$31K-$56K ","2.9","Quest Integrity
+","Tulsa, OK","Kent, WA","201 to 500 ",1996,"Company - Public","Oil & Gas Services","Oil, Gas, Energy & Utilities","$50 to $100 million (USD)","OK"
+480,"Data Scientist","$31K-$56K ","4.7","Praxis Engineering
+","Chantilly, VA","Annapolis Junction, MD","201 to 500 ",2002,"Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","VA"
+481,"Data Scientist","$31K-$56K ","3.4","USI
+","Southfield, MI","Saint Paul, MN","1001 to 5000 ",1998,"Company - Private","Construction","Construction, Repair & Maintenance","$100 to $500 million (USD)","MI"
+482,"Data Scientist","$31K-$56K ","3.9","Apex Systems
+","San Francisco, CA","Glen Allen, VA","1001 to 5000 ",1995,"Subsidiary or Business Segment","Staffing & Outsourcing","Business Services","$2 to $5 billion (USD)","CA"
+483,"Data Scientist","$80K-$132K","2.9","Pragmatics, Inc.
+","Reston, VA","Reston, VA","201 to 500 ",1985,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","VA"
+484,"Decision Scientist","$31K-$56K ","4.5","Johns Hopkins University Applied Physics Laboratory
+","Laurel, MD","Laurel, MD","5001 to 10000 ",1942,"Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","MD"
+485,"Data Scientist","$31K-$56K ","4.9","Cambridge Mobile Telematics
+","Cambridge, MA","Cambridge, MA","1 to 50 ",2010,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","MA"
+486,"Data Scientist - TS/SCI FSP or CI Required","$31K-$56K ","5","Phoenix Operations Group
+","Annapolis Junction, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+487,"Data Scientist, Applied Machine Learning - Bay Area","$95K-$119K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+488,"Data Scientist","$95K-$119K ","3.5","The Knot Worldwide
+","Washington, DC","Chevy Chase, MD","1001 to 5000 ",2019,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","DC"
+489,"Data Scientist","$95K-$119K ","3.5","Crossover Health
+","San Clemente, CA","Aliso Viejo, CA","1 to 50 ",2010,"Company - Private","Health Care Services & Hospitals","Health Care","$1 to $5 million (USD)","CA"
+490,"Data Scientist","$95K-$119K ","4","Lorven Technologies Inc
+","New York, NY","Plainsboro, NJ","1 to 50 ",2001,"Company - Private","Accounting","Accounting & Legal","Less than $1 million (USD)","NY"
+491,"Data Analyst","$95K-$119K ","3.9","Nolij Consulting
+","Falls Church, VA","Vienna, VA","51 to 200 ",2012,"Company - Public","Consulting","Business Services","$1 to $5 million (USD)","VA"
+492,"Data Scientist","$95K-$119K ","3.4","Dice.com
+","Newton, MA","Denver, CO","201 to 500 ",1990,"Subsidiary or Business Segment","Staffing & Outsourcing","Business Services","$100 to $500 million (USD)","MA"
+493,"Data Scientist","$95K-$119K ","3.5","Gap Inc.
+","San Francisco, CA","San Francisco, CA","10000+ ",1969,"Company - Public","Department, Clothing, & Shoe Stores","Retail","$10+ billion (USD)","CA"
+494,"Data Scientist","$95K-$119K ","4.7","Tygart Technology, Inc
+","Washington, DC","Fairmont, WV","1 to 50 ",1992,"Company - Private","Software Development","Programming","$1 to $5 million (USD)","DC"
+495,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+496,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+497,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+498,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+499,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+500,"Data Scientist","$95K-$119K ","0","Hatch Data Inc","San Francisco, CA","San Francisco, CA","N/A",2019,"N/A","Real Estate","Real Estate","-1","CA"
+501,"Data Scientist","$95K-$119K ","4.6","Murray Resources
+","The Woodlands, TX","Houston, TX","1 to 50 ",1988,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","TX"
+502,"Data Scientist","$95K-$119K ","4","New York Technology Partners
+","Seattle, WA","Jersey City, NJ","51 to 200 ",1999,"Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","WA"
+503,"Data Scientist","$95K-$119K ","4","Two95 International Inc.
+","Chicago, IL","Cherry Hill, NJ","1 to 50 ",2009,"Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","IL"
+504,"Data Scientist","$95K-$119K ","0","Sophinea","Chantilly, VA","Arlington, VA","1 to 50 ",2018,"Company - Private","IT Services","Technology","Unknown / Non-Applicable","VA"
+505,"Data Scientist","$95K-$119K ","4.7","CRS Group
+","Chicago, IL","Itasca, IL","51 to 200 ",1994,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","IL"
+506,"Data Scientist","$95K-$119K ","3.5","Blackstone Talent Group
+","San Francisco, CA","San Francisco, CA","51 to 200 ",1998,"Company - Private","Consulting","Business Services","$25 to $50 million (USD)","CA"
+507,"Data Scientist - TS/SCI Required","$95K-$119K ","5","Phoenix Operations Group
+","Baltimore, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+508,"Senior Principal Data Scientist (Python/R)","$212K-$331K ","4.1","Roche
+","Pleasanton, CA","Basel, Switzerland","10000+ ",1896,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","CA"
+509,"Real World Science, Data Scientist","$212K-$331K ","4","AstraZeneca
+","Wilmington, DE","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","DE"
+510,"Data Scientist","$212K-$331K ","3.6","Creative Circle
+","United States","Los Angeles, CA","201 to 500 ",2002,"Company - Public","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","USA"
+511,"Data Scientist(s)/Machine Learning Engineer","$212K-$331K ","5","Blue Horizon Tek Solutions
+","New York, NY","Coconut Creek, FL","1 to 50 ",1987,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","NY"
+512,"Senior Data Scientist","$212K-$331K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+513,"Data Scientist","$212K-$331K ","4.7","Sharpedge Solutions Inc
+","Seattle, WA","Lombard, IL","N/A",2000,"Company - Private","Publishing","Media","Less than $1 million (USD)","WA"
+514,"Data Scientist","$212K-$331K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+515,"Data Scientist","$212K-$331K ","3.6","Alaka`ina Foundation Family of Companies
+","Fort Sam Houston, TX","Honolulu, HI","501 to 1000 ",2004,"Government","Civic & Social Services","Civic","Unknown / Non-Applicable","TX"
+516,"ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR","$212K-$331K ","3.9","Southwest Research Institute
+","Oklahoma City, OK","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","OK"
+517,"Data Scientist","$212K-$331K ","2.7","Hexagon US Federal
+","Lexington Park, MD","Chantilly, VA","51 to 200 ",2010,"Company - Public","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MD"
+518,"Data Science Software Engineer","$212K-$331K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+519,"Scientist / Group Lead, Cancer Biology","$212K-$331K ","0","Monte Rosa Therapeutics","Cambridge, MA","Boston, MA","N/A",2019,"Company - Private","Biotechnology Research","Health Care","-1","MA"
+520,"Data Scientist","$212K-$331K ","4","Comtech Global Inc
+","Washington, DC","Columbus, OH","51 to 200 ",2006,"Company - Private","Health, Beauty, & Fitness","Consumer Services","$5 to $10 million (USD)","DC"
+521,"Data Scientist","$212K-$331K ","3.8","Aveshka, Inc.
+","Washington, DC","Arlington, VA","51 to 200 ",2010,"Company - Public","IT Services","Information Technology","$10 to $25 million (USD)","DC"
+522,"Manager, Field Application Scientist, Southeast","$212K-$331K ","4.2","10x Genomics
+","Raleigh, NC","Pleasanton, CA","501 to 1000 ",2012,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","NC"
+523,"COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING","$212K-$331K ","3.9","Southwest Research Institute
+","Dayton, OH","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","OH"
+524,"Data Scientist","$212K-$331K ","0","CompuForce","New York, NY","New York, NY","N/A",2021,"Company - Private","Staffing & Outsourcing","Information Technology","Unknown / Non-Applicable","NY"
+525,"Data Scientist","$212K-$331K ","4.5","Smith Hanley Associates
+","Washington, DC","New York, 061","1 to 50 ",1980,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","DC"
+526,"Scientist - Machine Learning","$212K-$331K ","3.5","Allen Institute
+","Seattle, WA","Seattle, WA","201 to 500 ",2003,"Nonprofit Organization","Research & Development","Business Services","$100 to $500 million (USD)","WA"
+527,"Data Scientist","$212K-$331K ","2.7","1-800-Flowers
+","New York, NY","Carle Place, NY","1001 to 5000 ",1976,"Company - Public","Wholesale","Business Services","$1 to $2 billion (USD)","NY"
+528,"Data Scientist","$212K-$331K ","3.5","Aptive
+","Washington, DC","Alexandria, VA","51 to 200 ",2012,"Company - Private","Consulting","Business Services","$25 to $50 million (USD)","DC"
+529,"Data Scientist - Image and Video Analytics","$66K-$112K ","4.9","The Mom Project
+","Longmont, CO","Chicago, IL","1 to 50 ",2016,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","CO"
+530,"Data Scientist","$66K-$112K ","3.6","Powertek
+","Washington, DC","Rockville, MD","51 to 200 ",2001,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","DC"
+531,"Data Scientist","$66K-$112K ","5","JCD Staffing
+","Washington, DC","Germantown, MD","1 to 50 ",2016,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","DC"
+532,"Data Scientist","$66K-$112K ","3.1","Bayside Solutions
+","Sunnyvale, CA","Pleasanton, CA","1 to 50 ",2001,"Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","CA"
+533,"Senior Data Engineer","$66K-$112K ","3.9","Thumbtack
+","San Francisco, CA","San Francisco, CA","501 to 1000 ",2009,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","CA"
+534,"Data Scientist","$66K-$112K ","3.4","MILVETS Systems Technology, Inc.
+","Patuxent, Anne Arundel, MD","Orlando, FL","51 to 200 ",1986,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","MD"
+535,"Machine Learning Scientist / Engineer","$66K-$112K ","4.1","Apple
+","Santa Clara, CA","Cupertino, CA","10000+ ",1976,"Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","CA"
+536,"Data Scientist","$66K-$112K ","4.1","Kforce
+","Fairfax, VA","Tampa, FL","10000+ ",1966,"Company - Public","Staffing & Outsourcing","Business Services","$1 to $2 billion (USD)","VA"
+537,"Sr. Data Scientist","$66K-$112K ","3.5","Evolve Vacation Rental
+","Denver, CO","Denver, CO","201 to 500 ",2011,"Company - Private","Travel Agencies","Travel & Tourism","Unknown / Non-Applicable","CO"
+538,"Intelligence Data Analyst, Senior","$66K-$112K ","4.3","The Buffalo Group
+","Fort Belvoir, VA","Reston, VA","501 to 1000 ",2010,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","VA"
+539,"Data Science Analyst","$66K-$112K ","4.4","OppLoans
+","Chicago, IL","Chicago, IL","201 to 500 ",2012,"Company - Private","Lending","Finance","$100 to $500 million (USD)","IL"
+540,"Data Scientist","$66K-$112K ","3.8","AgreeYa Solutions
+","Thousand Oaks, CA","Folsom, CA","1001 to 5000 ",1999,"Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","CA"
+541,"Data Scientist","$66K-$112K ","3.7","Carolina Power & Light Co
+","McLean, VA","Raleigh, NC","5001 to 10000 ",1908,"Subsidiary or Business Segment","Energy","Oil, Gas, Energy & Utilities","Unknown / Non-Applicable","VA"
+542,"COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY","$66K-$112K ","3.9","Southwest Research Institute
+","San Antonio, TX","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","TX"
+543,"Data Scientist","$66K-$112K ","3.9","Brillient
+","Silver Spring, MD","Reston, VA","501 to 1000 ",2006,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","MD"
+544,"Data Modeler (Analytical Systems)","$66K-$112K ","3.7","MassMutual
+","Boston, MA","Springfield, MA","5001 to 10000 ",1851,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+545,"Data Scientist","$66K-$112K ","2.9","Xator Corporation
+","Washington, DC","Reston, VA","501 to 1000 ",2005,"Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","DC"
+546,"Data Scientist","$66K-$112K ","4.6","HAN IT Staffing Inc.
+","New York, NY","Totowa, NJ","51 to 200 ",2012,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","NY"
+547,"Data Scientist","$66K-$112K ","3.4","Infinitive Inc
+","McLean, VA","Cedar Rapids, IA","201 to 500 ",1997,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$10 to $25 million (USD)","VA"
+548,"Data Engineer (Analytics, SQL, Python, AWS)","$66K-$112K ","4","Travelers
+","Hartford, CT","Hartford, CT","10000+ ",1853,"Company - Public","Insurance Carriers","Insurance","$10+ billion (USD)","CT"
+549,"Data Scientist 3 (718)","$128K-$201K ","3.3","Amyris
+","Emeryville, CA","Emeryville, CA","201 to 500 ",2003,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","CA"
+550,"Data Scientist","$128K-$201K ","4.3","Lightspeed Systems
+","Austin, TX","Austin, TX","51 to 200 ",1999,"Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","TX"
+551,"Senior Data Scientist","$128K-$201K ","3.9","Thumbtack
+","San Francisco, CA","San Francisco, CA","501 to 1000 ",2009,"Company - Private","Internet","Information Technology","Unknown / Non-Applicable","CA"
+552,"Senior Data Analyst - Finance & Platform Analytics","$128K-$201K ","3.6","Twitch
+","San Francisco, CA","San Francisco, CA","1001 to 5000 ",2011,"Subsidiary or Business Segment","Internet","Information Technology","Unknown / Non-Applicable","CA"
+553,"Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team)","$128K-$201K ","4.7","New Relic
+","Portland, OR","San Francisco, CA","1001 to 5000 ",2008,"Company - Public","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","OR"
+554,"IT Partner Digital Health Technology and Data Science","$128K-$201K ","3.6","Biogen
+","Cambridge, MA","Cambridge, MA","5001 to 10000 ",1978,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MA"
+556,"Senior Machine Learning Scientist - Bay Area, CA","$128K-$201K ","3.3","Tempus Labs
+","Redwood City, CA","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+557,"Data Scientist","$128K-$201K ","3.3","ICW Group
+","San Diego, CA","San Diego, CA","501 to 1000 ",1972,"Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","CA"
+558,"Clinical Data Analyst","$128K-$201K ","3.8","NYSTEC
+","New York, NY","Rome, NY","51 to 200 ",1996,"Nonprofit Organization","Consulting","Business Services","$25 to $50 million (USD)","NY"
+559,"Data Scientist","$128K-$201K ","4.5","E3 Federal Solutions
+","Chantilly, VA","McLean, VA","501 to 1000 ",2004,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","VA"
+560,"Data Engineer","$128K-$201K ","4.5","Kingfisher Systems
+","Falls Church, VA","Falls Church, VA","51 to 200 ",2005,"Company - Private","Federal Agencies","Government","$25 to $50 million (USD)","VA"
+561,"Data Scientist Technical Specialist","$128K-$201K ","3.4","Peraton
+","Chantilly, VA","Herndon, VA","1001 to 5000 ",2017,"Company - Private","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","VA"
+562,"Senior Data Scientist","$128K-$201K ","3.1","Group O
+","Chicago, IL","Milan, IL","1001 to 5000 ",1974,"Company - Private","Staffing & Outsourcing","Business Services","$500 million to $1 billion (USD)","IL"
+563,"Data Science Manager","$128K-$201K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+564,"Computer Vision / Deep Learning Scientist","$128K-$201K ","3.3","Tempus Labs
+","Chicago, IL","Chicago, IL","501 to 1000 ",2015,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","IL"
+565,"Big Data Engineer","$128K-$201K ","4.1","CaptiveAire
+","Raleigh, NC","Raleigh, NC","1001 to 5000 ",1976,"Company - Private","Industrial Manufacturing","Manufacturing","$100 to $500 million (USD)","NC"
+566,"Data Architect","$128K-$201K ","4.2","LSQ
+","Orlando, FL","Orlando, FL","51 to 200 ",1996,"Company - Private","Investment Banking & Asset Management","Finance","$100 to $500 million (USD)","FL"
+567,"Machine Learning Engineer","$128K-$201K ","3.9","Temboo
+","New York, NY","New York, NY","1 to 50 ",2012,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","NY"
+568,"Data Scientist","$128K-$201K ","0","Kibo","Philadelphia, PA","Marbella, Spain","N/A",2016,"Company - Public","N/A","N/A","Unknown / Non-Applicable","PA"
+569,"Aviation AI/ML Data Scientist","$128K-$201K ","3.3","MITRE
+","McLean, VA","Bedford, MA","5001 to 10000 ",1958,"Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","VA"
+570,"Data Scientist","$138K-$158K ","3.9","Mars
+","Mc Lean, VA","Mc Lean, VA","10000+ ",1911,"Company - Private","Food & Beverage Manufacturing","Manufacturing","$10+ billion (USD)","VA"
+571,"Data Scientist / Applied Mathematician","$138K-$158K ","4.5","Fullpower Technologies, Inc.
+","Santa Cruz, CA","Santa Cruz, CA","51 to 200 ",2003,"Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","CA"
+572,"Machine Learning Engineer, Sr.","$138K-$158K ","4.2","AeroVironment
+","Simi Valley, CA","Simi Valley, CA","501 to 1000 ",1971,"Company - Public","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","CA"
+573,"Data Scientist (TS/SCI w/ Poly)","$138K-$158K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+574,"Weapons and Sensors Engineer/Scientist","$138K-$158K ","4","Dynetics
+","Huntsville, AL","Huntsville, AL","1001 to 5000 ",1974,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","AL"
+575,"Applied Computer Scientist","$138K-$158K ","4.5","Systems & Technology Research
+","Woburn, MA","Woburn, MA","201 to 500 ",2010,"Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","MA"
+576,"Senior Data Analyst","$138K-$158K ","4.5","Novetta
+","Herndon, VA","Mc Lean, VA","501 to 1000 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","VA"
+577,"Information Systems Engineering Specialist (Engineering Scientist)","$138K-$158K ","3.8","Applied Research Laboratories
+","Austin, TX","Austin, TX","501 to 1000 ",1945,"College / University","Colleges & Universities","Education","Unknown / Non-Applicable","TX"
+578,"Cloud Data Engineer (Azure)","$138K-$158K ","3.9","Navy Federal Credit Union
+","Merrifield, VA","Vienna, VA","10000+ ",1933,"Other Organization","Banks & Credit Unions","Finance","Unknown / Non-Applicable","VA"
+579,"Scientist/Research Associate-Metabolic Engineering","$138K-$158K ","2","Conagen
+","New Bedford, MA","Bedford, MA","51 to 200 ",2010,"Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","MA"
+580,"Vice President, Biometrics and Clinical Data Management","$138K-$158K ","4.8","Alector
+","South San Francisco, CA","South San Francisco, CA","51 to 200 ",2013,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","Unknown / Non-Applicable","CA"
+581,"Enterprise Data Analyst (Enterprise Portfolio Management Office)","$138K-$158K ","3.9","Navy Federal Credit Union
+","Merrifield, VA","Vienna, VA","10000+ ",1933,"Other Organization","Banks & Credit Unions","Finance","Unknown / Non-Applicable","VA"
+582,"Senior Scientist - Toxicologist - Product Integrity (Stewardship)","$138K-$158K ","3.3","Reynolds American
+","Winston-Salem, NC","Winston-Salem, NC","5001 to 10000 ",1875,"Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","NC"
+583,"Lead Data Scientist – Network Analysis and Control","$138K-$158K ","3.3","MITRE
+","Bedford, MA","Bedford, MA","5001 to 10000 ",1958,"Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","MA"
+584,"Senior Machine Learning Engineer","$138K-$158K ","5","LifeOmic
+","Raleigh, NC","Indianapolis, IN","51 to 200 ",2016,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","NC"
+585,"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics","$138K-$158K ","4.4","Homology Medicines, Inc.
+","New Bedford, MA","Bedford, MA","51 to 200 ",2015,"Company - Public","Biotechnology Research","Health Care","Unknown / Non-Applicable","MA"
+586,"Data Engineer","$138K-$158K ","3.4","Spectrum Communications and Consulting
+","Chicago, IL","Chicago, IL","51 to 200 ",1992,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","IL"
+587,"Developer III - Data Science","$138K-$158K ","3.3","Inland Empire Health Plan
+","Rancho Cucamonga, CA","Rancho Cucamonga, CA","1001 to 5000 ",1996,"Company - Public","Health Care Services & Hospitals","Health Care","$1 to $2 billion (USD)","CA"
+588,"Senior Data Engineer","$138K-$158K ","2.9","Affinity Solutions
+","New York, NY","New York, NY","51 to 200 ",1998,"Company - Private","Advertising & Marketing","Business Services","Unknown / Non-Applicable","NY"
+589,"Hydrogen/Tritium Materials Scientist (Experienced)","$138K-$158K ","3.8","Sandia National Laboratories
+","Livermore, CA","Albuquerque, NM","10000+ ",1949,"Government","Federal Agencies","Government","$2 to $5 billion (USD)","CA"
+590,"Data Engineer","$138K-$158K ","3.5","Maxar Technologies
+","McLean, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+591,"Patient Safety- Associate Data Scientist","$80K-$132K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+592,"Senior Data Scientist","$80K-$132K ","4","Autodesk
+","San Francisco, CA","San Rafael, CA","5001 to 10000 ",1982,"Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","CA"
+593,"Data Scientist","$80K-$132K ","3.4","USI
+","Southfield, MI","Saint Paul, MN","1001 to 5000 ",1998,"Company - Private","Construction","Construction, Repair & Maintenance","$100 to $500 million (USD)","MI"
+594,"Data Scientist","$80K-$132K ","3.9","GSK
+","Collegeville, PA","Brentford, United Kingdom","10000+ ",1830,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","PA"
+595,"Data Scientist","$80K-$132K ","3.8","CIA
+","Washington, DC","Langley, VA","N/A",1947,"Government","Federal Agencies","Government","Unknown / Non-Applicable","DC"
+596,"Data Scientist","$80K-$132K ","4.5","Maven Wave Partners
+","Chicago, IL","Chicago, IL","201 to 500 ",2008,"Company - Private","Consulting","Business Services","$50 to $100 million (USD)","IL"
+597,"Data Scientist","$80K-$132K ","4.3","Ovative Group
+","Minneapolis, MN","Minneapolis, MN","51 to 200 ",2009,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","MN"
+598,"Data Scientist","$80K-$132K ","3.6","Kognetics
+","Gahanna, OH","New York, NY","1 to 50 ",2013,"Company - Private","Financial Services","Finance","Unknown / Non-Applicable","OH"
+599,"Data Scientist","$80K-$132K ","2.9","Envision Healthcare
+","Nashville, TN","Nashville, TN","10000+ ",2005,"Company - Private","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","TN"
+600,"Data Scientist","$80K-$132K ","2.9","Pragmatics, Inc.
+","Reston, VA","Reston, VA","201 to 500 ",1985,"Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","VA"
+601,"Data Scientist","$80K-$132K ","3.2","ConsumerTrack
+","El Segundo, CA","Los Angeles, CA","51 to 200 ",2004,"Company - Private","Internet","Information Technology","$25 to $50 million (USD)","CA"
+602,"Decision Scientist","$80K-$132K ","4.5","Johns Hopkins University Applied Physics Laboratory
+","Laurel, MD","Laurel, MD","5001 to 10000 ",1942,"Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","MD"
+603,"Data Scientist - TS/SCI FSP or CI Required","$80K-$132K ","5","Phoenix Operations Group
+","Annapolis Junction, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+604,"Data Scientist","$80K-$132K ","3.5","Crossover Health
+","San Clemente, CA","Aliso Viejo, CA","1 to 50 ",2010,"Company - Private","Health Care Services & Hospitals","Health Care","$1 to $5 million (USD)","CA"
+605,"Data Scientist","$80K-$132K ","4","Lorven Technologies Inc
+","New York, NY","Plainsboro, NJ","1 to 50 ",2001,"Company - Private","Accounting","Accounting & Legal","Less than $1 million (USD)","NY"
+606,"Data Scientist","$80K-$132K ","4.4","Meridian Knowledge Solutions
+","Washington, DC","Reston, VA","51 to 200 ",1997,"Subsidiary or Business Segment","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","DC"
+607,"Data Scientist","$80K-$132K ","4.2","UST Global
+","Atlanta, GA","Aliso Viejo, CA","10000+ ",1999,"Company - Private","IT Services","Information Technology","$1 to $2 billion (USD)","GA"
+608,"Data Scientist","$80K-$132K ","3.2","IMG Systems
+","Plano, TX","Plano, TX","1 to 50 ",2010,"Company - Private","Consulting","Business Services","$1 to $5 million (USD)","TX"
+609,"Data Scientist","$80K-$132K ","3.4","Trident Systems Inc
+","Fairfax, VA","Fairfax, VA","51 to 200 ",1985,"Company - Private","Aerospace & Defense","Aerospace & Defense","$25 to $50 million (USD)","VA"
+610,"Data Scientist","$80K-$132K ","4.7","Tygart Technology, Inc
+","Washington, DC","Fairmont, WV","1 to 50 ",1992,"Company - Private","Software Development","Programming","$1 to $5 million (USD)","DC"
+611,"(Sr.) Data Scientist -","$87K-$141K ","3.6","Merrick Bank
+","South Jordan, UT","South Jordan, UT","201 to 500 ",1997,"Company - Private","Banks & Credit Unions","Finance","Unknown / Non-Applicable","UT"
+612,"Senior Data Scientist","$87K-$141K ","4.2","ManTech
+","Alexandria, VA","Herndon, VA","5001 to 10000 ",1968,"Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","VA"
+613,"Data Scientist","$87K-$141K ","0","GrainBridge, LLC","Omaha, NE","Omaha, NE","N/A",2008,"N/A","Software Development","Programming","-1","NE"
+614,"Data Scientist","$87K-$141K ","3.2","First Health Group
+","Wellesley, MA","Bethesda, MD","10000+ ",1853,"Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","MA"
+615,"Data Scientist","$87K-$141K ","0","Sprezzatura Management Consulting","Washington, VA","McLean, VA","N/A",2009,"Company - Private","Business Consulting and Services","Business Services","Unknown / Non-Applicable","VA"
+616,"Data Scientist","$87K-$141K ","2.8","Progress Rail, A Caterpillar Company
+","Fort Worth, TX","Albertville, AL","1001 to 5000 ",1983,"Subsidiary or Business Segment","Rail","Transportation & Logistics","$2 to $5 billion (USD)","TX"
+617,"Data Scientist","$87K-$141K ","4.2","UST Global
+","Atlanta, GA","Aliso Viejo, CA","10000+ ",1999,"Company - Private","IT Services","Information Technology","$1 to $2 billion (USD)","GA"
+618,"Data Scientist","$87K-$141K ","4.5","Axiologic Solutions
+","Alexandria, VA","Fairfax, VA","51 to 200 ",2009,"Company - Private","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","VA"
+619,"Data Scientist","$87K-$141K ","3","Indigo Slate
+","Bellevue, WA","Bellevue, WA","51 to 200 ",2006,"Company - Private","Consulting","Business Services","$10 to $25 million (USD)","WA"
+620,"Data Scientist","$87K-$141K ","3.3","Cubic
+","United States","San Diego, CA","5001 to 10000 ",1951,"Company - Public","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","USA"
+621,"Data Scientist","$87K-$141K ","4","Advanced Bio-Logic Solutions Corp
+","Thousand Oaks, CA","Westlake Village, CA","1 to 50 ",2002,"Company - Private","Biotechnology","Biotechnology","Less than $1 million (USD)","CA"
+622,"Data Engineer","$87K-$141K ","3.5","Alignment Healthcare
+","Orange, CA","Orange, CA","501 to 1000 ",2013,"Company - Private","Health Care Services & Hospitals","Health Care","Unknown / Non-Applicable","CA"
+623,"Data Scientist","$87K-$141K ","3.5","WGSN
+","Baltimore, MD","New York, NY","1 to 50 ",1998,"Company - Private","Consulting","Business Services","$50 to $100 million (USD)","MD"
+624,"Data Scientist","$87K-$141K ","3.6","ISYS Technologies, Inc.
+","Herndon, VA","Littleton, CO","51 to 200 ",1990,"Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","VA"
+625,"Data Scientist","$87K-$141K ","3","TransVoyant
+","Alexandria, VA","Alexandria, VA","51 to 200 ",2012,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","VA"
+626,"Data Scientist/Data Analytics Practitioner","$87K-$141K ","4","Noblis
+","Bridgeport, WV","Reston, VA","1001 to 5000 ",1996,"Nonprofit Organization","Consulting","Business Services","$100 to $500 million (USD)","WV"
+627,"Data Scientist","$87K-$141K ","4.6","Murray Resources
+","The Woodlands, TX","Houston, TX","1 to 50 ",1988,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","TX"
+628,"Data Scientist","$87K-$141K ","4.3","Geotab
+","Oakville, CA","Oakville, Canada","1001 to 5000 ",2000,"Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","CA"
+629,"Data Scientist","$87K-$141K ","4.7","CRS Group
+","Chicago, IL","Itasca, IL","51 to 200 ",1994,"Company - Private","Staffing & Outsourcing","Business Services","$10 to $25 million (USD)","IL"
+630,"Data Scientist","$87K-$141K ","3.7","EGlobalTech
+","Arlington, VA","Vienna, VA","201 to 500 ",2004,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","VA"
+631,"Data Scientist, Kinship - NYC/Portland","$92K-$155K ","3.9","Mars
+","Mc Lean, VA","Mc Lean, VA","10000+ ",1911,"Company - Private","Food & Beverage Manufacturing","Manufacturing","$10+ billion (USD)","VA"
+632,"Data Scientist","$92K-$155K ","4.9","Avlino
+","New Jersey","Holmdel, NJ","1 to 50 ",2013,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Less than $1 million (USD)","NJ"
+633,"Data Scientist","$92K-$155K ","3","Central Business Solutions, Inc
+","Seattle, WA","Fremont, CA","51 to 200 ",2000,"Company - Private","Consulting","Business Services","$5 to $10 million (USD)","WA"
+634,"Data Scientist","$92K-$155K ","2.5","KeHE Distributors
+","Naperville, IL","Naperville, IL","5001 to 10000 ",1954,"Company - Private","Wholesale","Business Services","Unknown / Non-Applicable","IL"
+635,"Data Scientist","$92K-$155K ","3.5","Blackstone Talent Group
+","San Francisco, CA","San Francisco, CA","51 to 200 ",1998,"Company - Private","Consulting","Business Services","$25 to $50 million (USD)","CA"
+636,"Data Scientist - TS/SCI Required","$92K-$155K ","5","Phoenix Operations Group
+","Baltimore, MD","Woodbine, MD","1 to 50 ",2011,"Company - Private","IT Services","Information Technology","$1 to $5 million (USD)","MD"
+637,"Data Scientist","$92K-$155K ","0","Sophinea","Chantilly, VA","Arlington, VA","1 to 50 ",2018,"Company - Private","IT Services","Technology","Unknown / Non-Applicable","VA"
+638,"Senior Data Scientist","$92K-$155K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+639,"Data Scientist","$92K-$155K ","3","Moxie Software
+","Bellevue, WA","San Bruno, CA","51 to 200 ",1999,"Company - Private","Enterprise Software & Network Solutions","Information Technology","Unknown / Non-Applicable","WA"
+640,"Data Scientist(s)/Machine Learning Engineer","$92K-$155K ","5","Blue Horizon Tek Solutions
+","New York, NY","Coconut Creek, FL","1 to 50 ",1987,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","NY"
+641,"Data Scientist","$92K-$155K ","4.7","Unicom Technologies INC
+","Chicago, IL","Naperville, IL","51 to 200 ",1988,"Company - Private","IT Services","Information Technology","Unknown / Non-Applicable","IL"
+642,"Data Engineer","$92K-$155K ","3.3","Americo Life
+","Kansas City, MO","Kansas City, MO","201 to 500 ",1992,"Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","MO"
+643,"Data Scientist","$92K-$155K ","3.3","Tokio Marine HCC
+","Houston, TX","Houston, TX","1001 to 5000 ",1974,"Company - Private","Insurance Carriers","Insurance","Unknown / Non-Applicable","TX"
+644,"Data Scientist","$92K-$155K ","3.5","CACI International
+","Chantilly, VA","Arlington, VA","10000+ ",1962,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+645,"AI/ML - Machine Learning Scientist, Siri Understanding","$92K-$155K ","4.1","Apple
+","Santa Clara, CA","Cupertino, CA","10000+ ",1976,"Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","CA"
+646,"Data Scientist","$92K-$155K ","3.5","Maxar Technologies
+","Herndon, VA","Westminster, CO","5001 to 10000 ",2017,"Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","VA"
+647,"ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR","$92K-$155K ","3.9","Southwest Research Institute
+","Oklahoma City, OK","San Antonio, TX","1001 to 5000 ",1947,"Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","OK"
+648,"Data Scientist","$92K-$155K ","4.7","Compass Consulting Group
+","Thousand Oaks, CA","Danville, CA","51 to 200 ",2008,"Company - Private","Consulting","Business Services","Unknown / Non-Applicable","CA"
+649,"Data Science Software Engineer","$92K-$155K ","4.8","Klaviyo
+","Boston, MA","Boston, MA","201 to 500 ",2012,"Company - Private","Computer Hardware & Software","Information Technology","Unknown / Non-Applicable","MA"
+650,"Scientist / Group Lead, Cancer Biology","$92K-$155K ","0","Monte Rosa Therapeutics","Cambridge, MA","Boston, MA","N/A",2019,"Company - Private","Biotechnology Research","Health Care","-1","MA"
+651,"AI Ops Data Scientist","$92K-$155K ","4","AstraZeneca
+","Gaithersburg, MD","Cambridge, United Kingdom","10000+ ",1913,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","MD"
+652,"Senior Data Scientist","$105K-$167K ","3.8","GutCheck
+","Denver, CO","Denver, CO","51 to 200 ",2009,"Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","CO"
+653,"Sr. ML/Data Scientist - AI/NLP/Chatbot","$105K-$167K ","3.8","Juniper Networks
+","Cupertino, CA","Sunnyvale, CA","5001 to 10000 ",1996,"Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","CA"
+654,"Data Scientist","$105K-$167K ","2.7","Hexagon US Federal
+","Lexington Park, MD","Chantilly, VA","51 to 200 ",2010,"Company - Public","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MD"
+655,"Data Scientist","$105K-$167K ","4","Comtech Global Inc
+","Washington, DC","Columbus, OH","51 to 200 ",2006,"Company - Private","Health, Beauty, & Fitness","Consumer Services","$5 to $10 million (USD)","DC"
+656,"Data Scientist","$105K-$167K ","0","Berico Technologies","Fort Belvoir, VA","Reston, VA","N/A",2006,"N/A","N/A","N/A","-1","VA"
+657,"Data Scientist","$105K-$167K ","0","Kehe Food Distributors","Naperville, IL","Naperville, IL","N/A",1952,"Company - Private","Wholesale","Transportation","-1","IL"
+658,"Data Scientist","$105K-$167K ","3.8","Aveshka, Inc.
+","Washington, DC","Arlington, VA","51 to 200 ",2010,"Company - Public","IT Services","Information Technology","$10 to $25 million (USD)","DC"
+659,"Data Scientist","$105K-$167K ","3.2","Perspecta
+","Adelphi, MD","Chantilly, VA","10000+ ",2018,"Company - Public","Aerospace & Defense","Aerospace & Defense","Unknown / Non-Applicable","MD"
+660,"Data Scientist","$105K-$167K ","0","Pactera Edge","Redmond, WA","Redmond, WA","N/A",2012,"Company - Private","IT Services","Technology","-1","WA"
+661,"Data Scientist","$105K-$167K ","3.6","Qurate Retail Group
+","West Chester, PA","West Chester, PA","10000+ ",1991,"Company - Public","Other Retail Stores","Retail","Unknown / Non-Applicable","PA"
+662,"Data Scientist","$105K-$167K ","4.4","SolutionIT, Inc.
+","Edison, NJ","Wilmington, MA","51 to 200 ",2006,"Company - Private","Information Technology & Services","Business Services","Unknown / Non-Applicable","NJ"
+663,"Data Scientist","$105K-$167K ","4.1","A-Line Staffing Solutions
+","Durham, NC","Utica, MI","501 to 1000 ",2004,"Company - Private","Staffing & Outsourcing","Business Services","Unknown / Non-Applicable","NC"
+664,"Data Scientist","$105K-$167K ","0","Clear Ridge Defense","Quantico, VA","Baltimore, MD","1 to 50 ",2015,"Company - Private","IT Services","Technology","Unknown / Non-Applicable","VA"
+665,"Data Scientist","$105K-$167K ","3.8","Criterion Systems, Inc.
+","Vienna, VA","Vienna, VA","201 to 500 ",2005,"Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","VA"
+666,"Data Scientist","$105K-$167K ","4","Foundation Medicine
+","Boston, MA","Cambridge, MA","1001 to 5000 ",2010,"Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","MA"
+667,"Data Scientist","$105K-$167K ","3.6","TRANZACT
+","Fort Lee, NJ","Fort Lee, NJ","1001 to 5000 ",1989,"Company - Private","Advertising & Marketing","Business Services","Unknown / Non-Applicable","NJ"
+669,"Data Scientist","$105K-$167K ","0","AccessHope","Irwindale, CA","Duarte, CA","N/A",2019,"Company - Private","Health Care Services & Hospitals","Health Care","-1","CA"
+670,"Data Scientist","$105K-$167K ","5","ChaTeck Incorporated
+","San Francisco, CA","Santa Clara, CA","1 to 50 ",2000,"Company - Private","Advertising & Marketing","Business Services","$1 to $5 million (USD)","CA"
+671,"Data Scientist","$105K-$167K ","2.7","1-800-Flowers
+","New York, NY","Carle Place, NY","1001 to 5000 ",1976,"Company - Public","Wholesale","Business Services","$1 to $2 billion (USD)","NY"
